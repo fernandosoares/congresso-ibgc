@@ -17,10 +17,12 @@ config:
   webroot: .
   via: apache
   xdebug: false
-services:
-  database:
-    portforward:
-      - 3310
+events:
+  post-start:
+    - appserver: wp core download --locale=pt_BR
+    - appserver: wp config create --dbname=wordpress --dbuser=wordpress --dbpass=wordpress --dbhost=database
+    - appserver: wp core install --url=https://ibgc-congresso.lndo.site --title="Congresso | IBGC" --admin_user=admin --admin_password=admin --admin_email=admin@lndol.site
+    - appserver: wp plugin install simply-static --activate
 ```
 
 Então, execute:
