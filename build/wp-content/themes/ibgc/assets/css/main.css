@@ -1,0 +1,8 @@
+/* VENDOR */
+@import '/wp-content/themes/ibgc/assets/css/vendor/bootstrap.min.css';
+
+/* COMMON STYLES */
+@import '/wp-content/themes/ibgc/assets/css/common/app.css';
+
+/* SITE MODULES */
+@import '/wp-content/themes/ibgc/assets/css/modules/nav.css';
