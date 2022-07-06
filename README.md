@@ -60,4 +60,5 @@ host: database
 
 ## Deploy Estático
 
-Para fazer o deploy desse projeto basta subir o conteúdo da pasta **BUILD** na raiz do servidor
+Para fazer o deploy desse projeto é necessário configurar o output dos arquivos via Admin
+(Simply Static Plugin), gerar o pacote e subir o conteúdo da pasta **BUILD** na raiz do servidor
