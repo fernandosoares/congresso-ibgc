@@ -44,7 +44,7 @@ lando wp plugin install simply-static --activate
 Navegue ao diretório de temas (/wp-content/themes) e clone o projeto:
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/fernandosoares/congresso-ibgc
 ```
 
 Logo em seguida, acesse o endereço do projeto no navegador e configure:
