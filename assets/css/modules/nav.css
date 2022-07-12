@@ -1,0 +1,18 @@
+.navbar {
+    
+    width: 100%;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    background-color: rgba(0,0,0,.7) !important;
+    position: fixed;
+}
+
+.nav-item {
+    margin-left: 30px;
+}
+
+.nav-item a {
+    font-family: 'TT Commons Medium', sans-serif;
+    font-size: 18px;
+    color: #fff;
+}

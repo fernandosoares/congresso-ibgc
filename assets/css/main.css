@@ -1,8 +1,10 @@
-/* VENDOR */
-@import './vendor/bootstrap.min.css';
+/* FONTS */
+@import './fonts/fonts.css';
 
 /* COMMON STYLES */
 @import './common/app.css';
 
 /* SITE MODULES */
 @import './modules/nav.css';
+@import './modules/hero.css';
+@import './modules/video.css';

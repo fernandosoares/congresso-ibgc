@@ -1,0 +1,68 @@
+#hero {
+    background: url(../../img/head-banner-congresso.png);
+    background-repeat: no-repeat;
+    min-height: 864px;
+    color: #fff;
+}
+
+#hero .row.hero-row {
+    padding-top: 360px;
+    margin-bottom: 140px;
+}
+
+#hero .row.hero-row h1 {
+    font-family: "TT Commons DemiBold", sans-serif;
+    font-size: 88px;
+    margin: 0;
+    padding: 0;
+}
+
+#hero .row.hero-row h2 {
+    font-family: "TT Commons Light", sans-serif;
+    font-size: 60px;
+    margin: 0;
+    padding: 0;
+}
+
+#hero .row.hero-row .event-info {
+    font-family: "TT Commons DemiBold", sans-serif;
+    color: #dbd259;
+    font-size: 33px;
+    margin: 100px 0;
+}
+#hero .row.hero-row .event-info .date {
+    margin-right: 60px;
+}
+
+#hero .row.hero-row .event-info .date p,
+#hero .row.hero-row .event-info .location p {
+    margin: 0 0 0 15px;
+    padding: 0;
+}
+
+#hero .row.hero-row .sobre {
+    box-shadow: 0 0 3px #868686;
+    background-color: #fff;
+    color: #000;
+    padding: 50px;
+}
+
+#hero .row.hero-row .sobre h2 { 
+    font-family: "TT Commons Bold", sans-serif;
+    font-size: 44px;
+    margin: 0 0 50px 0;
+}
+
+#hero .row.hero-row .sobre p { 
+    font-family: "TT Commons Regular", sans-serif;
+    font-size: 30px;
+    line-height: 34px;
+}
+
+#hero .row.hero-row .sobre a { 
+    font-family: "TT Commons Medium", sans-serif;
+    font-size: 30px;
+    line-height: 34px;
+    color: #1e47b3;
+    text-decoration: none;
+}
