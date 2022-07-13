@@ -1,0 +1,39 @@
+#tickets {
+    background-color: #05030f;
+}
+
+#tickets .stages {
+
+}
+
+#tickets .stages thead tr th {
+    background-color: transparent !important;
+    padding-bottom: 0 !important;
+}
+
+#tickets .stages thead tr th .table-ticket-type {
+    position: relative;
+    font-family: "TT Commons DemiBold", sans-serif;
+    font-size: 22px;
+    line-height: 25px;
+    height: 160px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+#tickets .stages thead tr th .table-ticket-type.on-person {
+    background-color: #1e47b3;
+}
+
+#tickets .stages thead tr th .table-ticket-type.on-line {
+    background-color: #a8489a;
+}
+
+
+#tickets .stages thead tr th .table-ticket-type.meeting {
+    background-color: #3f9c54;
+}
+
+#tickets .stages tbody {
+    border-top: none;
+}

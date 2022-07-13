@@ -8,6 +8,7 @@
     <?php require_once 'partials/page/nav.php'; ?>
     <?php require_once 'partials/page/hero.php'; ?>
     <?php require_once 'partials/page/video.php'; ?>
+    <?php require_once 'partials/page/tickets.php'; ?>
 
     <?php wp_footer(); ?>
 </body>
