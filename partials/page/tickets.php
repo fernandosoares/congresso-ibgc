@@ -1,4 +1,4 @@
-<section id="tickets">
+<section id="ingressos">
     <div class="container">
 
         <div class="row">

@@ -4,7 +4,7 @@ $field = get_field('hero');
 
 ?>
 
-<section id="hero">
+<section id="home">
     <div class="container">
         <div class="row hero-row">
             <div class="col-12">

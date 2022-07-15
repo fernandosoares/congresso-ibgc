@@ -102,15 +102,15 @@
 }
 
 #ingressos .ticket-type.presencial .flag {
-    background: url(../../img/flag-presencial.png) no-repeat;
+    background: url(/wp-content/themes/congresso-ibgc/assets/img/flag-presencial.png) no-repeat;
 }
 
 #ingressos .ticket-type.on-line .flag {
-    background: url(../../img/flag-on-line.png) no-repeat;
+    background: url(/wp-content/themes/congresso-ibgc/assets/img/flag-on-line.png) no-repeat;
 }
 
 #ingressos .ticket-type.meeting .flag {
-    background: url(../../img/flag-meeting.png) no-repeat;
+    background: url(/wp-content/themes/congresso-ibgc/assets/img/flag-meeting.png) no-repeat;
 }
 
 
@@ -142,7 +142,7 @@
 #ingressos .ticket-type.presencial ul li,
 #ingressos .ticket-type.on-line ul li,
 #ingressos .ticket-type.meeting ul li {
-    background-image: url(../../img/check-disabled.png);
+    background-image: url(/wp-content/themes/congresso-ibgc/assets/img/check-disabled.png);
     background-repeat: no-repeat;
     background-position: 15px 15px;
     padding: 15px 0 15px 70px;
@@ -150,17 +150,17 @@
 }
 
 #ingressos .ticket-type.presencial ul li.enabled {
-    background-image: url(../../img/check-presencial.png);
+    background-image: url(/wp-content/themes/congresso-ibgc/assets/img/check-presencial.png);
     color: #000;
 }
 
 #ingressos .ticket-type.on-line ul li.enabled {
-    background-image: url(../../img/check-on-line.png);
+    background-image: url(/wp-content/themes/congresso-ibgc/assets/img/check-on-line.png);
     color: #000;
 }
 
 #ingressos .ticket-type.meeting ul li.enabled {
-    background-image: url(../../img/check-meeting.png);
+    background-image: url(/wp-content/themes/congresso-ibgc/assets/img/check-meeting.png);
     color: #000;
 }
 

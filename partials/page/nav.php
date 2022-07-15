@@ -12,10 +12,10 @@
                     <a class="nav-link" aria-current="page" href="#home">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="#home">Programação</a>
+                    <a class="nav-link" aria-current="page" href="#programacao">Programação</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="#home">Ingressos</a>
+                    <a class="nav-link" aria-current="page" href="#ingressos">Ingressos</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="#home">Palestrantes</a>

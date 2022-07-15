@@ -1,0 +1,11 @@
+#video {
+    position: relative;
+    background: url(/wp-content/themes/congresso-ibgc/assets/img/background-congresso-video.png);
+    background-repeat: no-repeat;
+    padding: 80px 0;
+}
+
+#video iframe {
+    width: 1320px;
+    height: 768px;
+}

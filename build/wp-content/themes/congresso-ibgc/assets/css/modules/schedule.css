@@ -1,0 +1,14 @@
+#programacao {
+    padding: 160px 0;
+    color: #000;
+}
+
+#programacao h2 {
+    font-family: "TT Commons Bold", sans-serif;
+    font-size: 48px
+}
+
+#programacao p {
+    font-family: "TT Commons Regular", sans-serif;
+    font-size: 20px
+}

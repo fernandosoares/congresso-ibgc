@@ -1,0 +1,12 @@
+/* FONTS */
+@import '/wp-content/themes/congresso-ibgc/assets/css/fonts/fonts.css';
+
+/* COMMON STYLES */
+@import '/wp-content/themes/congresso-ibgc/assets/css/common/app.css';
+
+/* SITE MODULES */
+@import '/wp-content/themes/congresso-ibgc/assets/css/modules/nav.css';
+@import '/wp-content/themes/congresso-ibgc/assets/css/modules/hero.css';
+@import '/wp-content/themes/congresso-ibgc/assets/css/modules/video.css';
+@import '/wp-content/themes/congresso-ibgc/assets/css/modules/schedule.css';
+@import '/wp-content/themes/congresso-ibgc/assets/css/modules/tickets.css';
