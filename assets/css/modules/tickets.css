@@ -2,8 +2,19 @@
     background-color: #05030f;
 }
 
-#tickets .stages {
+#tickets h2 {
+    color: #fff;
+    font-family: "TT Commons Bold", sans-serif;
+    font-size: 42px;
+    margin: 80px 0 0 0
+}
+#tickets h2.second {
+    margin: 80px 0;
+}
 
+#tickets .stages td {
+    background-color: transparent;
+    padding-left: 0;
 }
 
 #tickets .stages thead tr th {
@@ -36,4 +47,166 @@
 
 #tickets .stages tbody {
     border-top: none;
+}
+
+
+#tickets .ticket-info tr:nth-child(even) {
+    background-color: #0b0a1e;
+}
+
+#tickets .ticket-info tr, 
+#tickets .ticket-info td,
+#tickets .ticket-info th {
+    border: none;
+}
+
+#tickets .ticket-info.one {
+    font-family: "TT Commons Regular";
+    color: #fff;
+}
+
+#tickets .ticket-info.one p {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-family: "TT Commons DemiBold";
+}
+
+#tickets .ticket-info.one p span {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-family: "TT Commons Regular";
+}
+
+#tickets .ticket-type {
+    background-color: #fff;
+    border-radius: 25px;
+    position: relative;
+    margin: 0 15px;
+}
+
+#tickets .ticket-type h3 {
+    padding: 40px 0 30px 115px;
+    font-family: "TT Commons DemiBold", sans-serif;
+    font-size: 38px;
+    line-height: 38px;
+}
+
+#tickets .ticket-type .flag {
+    position: absolute;
+    width: 138px;
+    height: 109px;
+    top: 30px;
+    left: -29px;
+}
+
+#tickets .ticket-type.presencial .flag {
+    background: url(../../img/flag-presencial.png) no-repeat;
+}
+
+#tickets .ticket-type.on-line .flag {
+    background: url(../../img/flag-on-line.png) no-repeat;
+}
+
+#tickets .ticket-type.meeting .flag {
+    background: url(../../img/flag-meeting.png) no-repeat;
+}
+
+
+#tickets .ticket-type.presencial h3 {
+    color: #1e47b3
+}
+
+#tickets .ticket-type.on-line h3 {
+    color: #a8489a
+}
+
+#tickets .ticket-type.meeting h3 {
+    color: #3f9c54
+}
+
+
+#tickets .ticket-type ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#tickets .ticket-type ul li {
+    font-family: "TT Commons Regular", sans-serif;
+    font-size: 20px;
+    
+}
+
+#tickets .ticket-type.presencial ul li,
+#tickets .ticket-type.on-line ul li,
+#tickets .ticket-type.meeting ul li {
+    background-image: url(../../img/check-disabled.png);
+    background-repeat: no-repeat;
+    background-position: 15px 15px;
+    padding: 15px 0 15px 70px;
+    color: #b3b3b3;
+}
+
+#tickets .ticket-type.presencial ul li.enabled {
+    background-image: url(../../img/check-presencial.png);
+    color: #000;
+}
+
+#tickets .ticket-type.on-line ul li.enabled {
+    background-image: url(../../img/check-on-line.png);
+    color: #000;
+}
+
+#tickets .ticket-type.meeting ul li.enabled {
+    background-image: url(../../img/check-meeting.png);
+    color: #000;
+}
+
+#tickets .ticket-type ul li:nth-child(odd) {
+    background-color: #e5e5e5;    
+}
+
+#tickets .inscricao-corporativa {
+    margin: 45px auto;
+}
+
+#tickets .inscricao-corporativa a {
+    border-radius: 30px;
+    border: solid 2px #dbd259;
+    padding: 10px 20px 13px 20px;
+    color: #fff;
+    font-family: "TT Commons DemiBold", sans-serif;
+    font-size: 26px;
+    text-decoration: none;
+}
+
+#tickets td.buy-buttons {
+    border: none;
+}
+
+#tickets td.buy-buttons table,
+#tickets td.buy-buttons table tbody tr td {
+    border: none;
+    color: #fff
+}
+
+#tickets td.buy-buttons a {
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 25px 10px 25px;
+    font-size: 18px;
+    font-family: "TT Commons Medium", sans-serif;
+    border-radius: 30px;
+}
+
+#tickets td.buy-buttons a.presencial {
+    background-color: #1e47b3;
+}
+#tickets td.buy-buttons a.on-line {
+    background-color: #a8489a;
+}
+#tickets td.buy-buttons a.meeting {
+    background-color: #3f9c54;
 }

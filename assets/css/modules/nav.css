@@ -16,3 +16,11 @@
     font-size: 18px;
     color: #fff;
 }
+
+@media all and (max-width: 767px) {
+
+    .navbar-brand img {
+        width: 190px;
+    }
+
+}
