@@ -32,6 +32,17 @@
     color: transparent;
 }
 
+#palestrantes .palestrante .info a {
+    text-decoration: none;
+}
+
+#palestrantes .palestrante .info a:hover {
+    text-decoration: underline;
+    text-decoration-color: #fff;
+    text-underline-offset: 1px;
+
+}
+
 #palestrantes .palestrante .info h3 {
     color: #b0d1ff;
     font-family: "TT Commons DemiBold", sans-serif;
