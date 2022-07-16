@@ -1,0 +1,122 @@
+#patrocinadores {
+    background-color: #05030f;
+    padding: 60px 0;
+}
+
+
+#patrocinadores h2 {
+    margin: 0 0 80px 0;
+    font-family: "TT Commons DemiBold";
+    font-size: 44px;
+    color:#fff;
+}
+
+#patrocinadores img {
+    margin: 50px 30px 0 0;
+}
+
+#patrocinadores h4 {
+    background-color: #05030f;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "TT Commons Regular";
+    font-size: 26px;
+    padding: 10px 35px;
+    border-radius: 25px;
+}
+
+#patrocinadores .master {
+    position: relative;
+    height: 2px;
+    background-color: #4bbb63;
+    margin-bottom: 330px;
+}
+
+#patrocinadores .master h4 {
+    border: 2px solid #4bbb63;
+    border-top-color: #05030f;
+    border-bottom-color: #05030f;
+    color: #4bbb63;
+}
+
+#patrocinadores .ouro {
+    height: 2px;
+    background-color: #dbd259;
+    margin-bottom: 330px;
+}
+
+#patrocinadores .ouro h4 {
+    border: 2px solid #dbd259;
+    border-top-color: #05030f;
+    border-bottom-color: #05030f;
+    color: #dbd259;
+}
+
+#patrocinadores .prata {
+    height: 2px;
+    background-color: #fff;
+    margin-bottom: 330px;
+}
+
+#patrocinadores .prata h4 {
+    border: 2px solid #fff;
+    border-top-color: #05030f;
+    border-bottom-color: #05030f;
+    color: #fff;
+}
+
+
+#patrocinadores .bronze {
+    height: 2px;
+    background-color: #d79422;
+    margin-bottom: 330px;
+}
+
+#patrocinadores .bronze h4 {
+    border: 2px solid #d79422;
+    border-top-color: #05030f;
+    border-bottom-color: #05030f;
+    color: #d79422;
+}
+
+#patrocinadores .plus {
+    height: 2px;
+    background-color: #0e818b;
+    margin-bottom: 330px;
+}
+
+#patrocinadores .plus h4 {
+    border: 2px solid #0e818b;
+    border-top-color: #05030f;
+    border-bottom-color: #05030f;
+    color: #0e818b;
+}
+
+#patrocinadores .parceiros {
+    height: 2px;
+    background-color: #fff;
+    margin-bottom: 330px;
+}
+
+#patrocinadores .parceiros h4 {
+    border: 2px solid #fff;
+    border-top-color: #05030f;
+    border-bottom-color: #05030f;
+    color: #fff;
+}
+
+
+#patrocinadores .parceiro-midia {
+    height: 2px;
+    background-color: #fff;
+    margin-bottom: 330px;
+}
+
+#patrocinadores .parceiro-midia h4 {
+    border: 2px solid #fff;
+    border-top-color: #05030f;
+    border-bottom-color: #05030f;
+    color: #fff;
+}
+

@@ -18,7 +18,7 @@
                     <a class="nav-link" aria-current="page" href="#ingressos">Ingressos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="#home">Palestrantes</a>
+                    <a class="nav-link" aria-current="page" href="#palestrantes">Palestrantes</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="#home">Sobre</a>
