@@ -10,6 +10,7 @@
     <?php require_once 'partials/page/video.php'; ?>
     <?php require_once 'partials/page/schedule.php'; ?>
     <?php require_once 'partials/page/tickets.php'; ?>
+    <?php require_once 'partials/page/speakers.php'; ?>
 
     <?php wp_footer(); ?>
 </body>
