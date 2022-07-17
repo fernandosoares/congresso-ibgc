@@ -26,7 +26,12 @@
                     <a class="nav-link" aria-current="page" href="#congressos">Sobre</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link cta" aria-current="page" href="">Inscreva-se</a>
+                    <a class="nav-link" target="_blank" aria-current="page" href="https://www.sympla.com.br/ibgc-23-congress__1648714" data-bs-toggle="tooltip" data-bs-placement="bottom" title="For foreign registration, please click here to be directed to an exclusive page to complete the registration process. If you have your CPF card, you can purchase your ticket by clicking on the 'Inscreva-se' button.">
+                        <img src="<?= get_template_directory_uri() . '/assets/img/usa.png' ?>" width="32" alt="USA" />
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link cta" aria-current="page" href="" target="_blank">Inscreva-se</a>
                 </li>
             </ul>
         </div>

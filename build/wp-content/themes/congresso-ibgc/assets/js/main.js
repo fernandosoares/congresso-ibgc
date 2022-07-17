@@ -12,4 +12,9 @@ jQuery(document).ready(function() {
         jQuery('#contador .seconds').html(event.strftime('%S <span>segundos</span>'));
         //jQuery(this).html(event.strftime('%D days %H:%M:%S'));
     });
+
+    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+    return new bootstrap.Tooltip(tooltipTriggerEl)
+})
 })

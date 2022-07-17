@@ -21,6 +21,14 @@
     width: 260px;
 }
 
+.navbar a img {
+    filter: grayscale(100%);
+}
+
+.navbar a img:hover {
+    filter: grayscale(0);
+}
+
 @media all and (min-width: 768px) {
 
     .navbar .nav-link.cta {
