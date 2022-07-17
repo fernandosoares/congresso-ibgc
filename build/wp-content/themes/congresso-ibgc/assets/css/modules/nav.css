@@ -1,8 +1,8 @@
 .navbar {
     
     width: 100%;
-    padding-top: 2.5rem;
-    padding-bottom: 2.5rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
     background-color: rgba(0,0,0,.7) !important;
     position: fixed;
 }
@@ -17,10 +17,38 @@
     color: #fff;
 }
 
+.navbar-brand img {
+    width: 260px;
+}
+
+@media all and (min-width: 768px) {
+
+    .navbar .nav-link.cta {
+        color:#000;
+        background-color: #fff;
+        border-radius: 15px;
+        padding: 5px 15px 7px;
+    }
+
+}
+
+
+
 @media all and (max-width: 767px) {
+
+    .navbar {
+    
+        width: 100%;
+        padding-top: 1.5rem;
+        padding-bottom: 1.5rem;
+        background-color: rgba(0,0,0,.9) !important;
+        position: fixed;
+    }
 
     .navbar-brand img {
         width: 190px;
     }
+
+    
 
 }

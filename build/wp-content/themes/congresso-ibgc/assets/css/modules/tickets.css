@@ -27,7 +27,7 @@
     font-family: "TT Commons DemiBold", sans-serif;
     font-size: 22px;
     line-height: 25px;
-    height: 160px;
+    height: 140px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
@@ -145,7 +145,7 @@
     background-image: url(/wp-content/themes/congresso-ibgc/assets/img/check-disabled.png);
     background-repeat: no-repeat;
     background-position: 15px 15px;
-    padding: 15px 0 15px 70px;
+    padding: 12px 0 12px 70px;
     color: #b3b3b3;
 }
 

@@ -26,6 +26,11 @@
     left: 40px; 
 }
 
+#congressos a {
+    color: #000;
+    text-decoration: none;
+}
+
 #congressos .timeline .right {
     position: absolute;
     top: -45px;

@@ -23,7 +23,7 @@
                     <a class="nav-link" aria-current="page" href="#palestrantes">Palestrantes</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="#congresso">Sobre</a>
+                    <a class="nav-link" aria-current="page" href="#congressos">Sobre</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link cta" aria-current="page" href="">Inscreva-se</a>
