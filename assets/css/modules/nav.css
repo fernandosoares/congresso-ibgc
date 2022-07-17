@@ -21,11 +21,11 @@
     width: 260px;
 }
 
-.navbar a img {
+.navbar .nav-link img {
     filter: grayscale(100%);
 }
 
-.navbar a img:hover {
+.navbar .nav-link img:hover {
     filter: grayscale(0);
 }
 
