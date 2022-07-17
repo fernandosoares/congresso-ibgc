@@ -9,12 +9,16 @@
             <div class="col-12 col-md-6">
                 <div class="timeline">
                     <div class="left d-flex flex-column justify-content-center">
-                        <div class="numero">22º</div>
-                        <p>Congresso (2021)</p>
+                        <a href="https://www.youtube.com/playlist?list=PL7LheNPNr5gfHau7Nj-GgZzsFqa12XVNp" target="_blank">
+                            <div class="numero">22º</div>
+                            <p>Congresso (2021)</p>
+                        </a>
                     </div>
                     <div class="right d-flex flex-column justify-content-center">
-                        <div class="numero">21º</div>
-                        <p>Congresso (2020)</p>
+                        <a href="https://youtube.com/playlist?list=PL7LheNPNr5gcncYmjjIEUiK-Vc467HHoA" target="_blank">
+                            <div class="numero">21º</div>
+                            <p>Congresso (2020)</p>
+                        </a>
                     </div>
                 </div>
             </div>

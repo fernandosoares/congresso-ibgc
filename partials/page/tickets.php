@@ -120,13 +120,13 @@
                                                     <small>* Preços congelados de 2019</small>
                                                 </td>
                                                 <td width="13.333333%" align="center">
-                                                    <a href="" class="presencial">Comprar</a>
+                                                    <a href="https://ibgc.org.br/inscricao/evento/4e7ff0a7-1202-ed11-82e6-002248de6f5f" class="presencial">Comprar</a>
                                                 </td>
                                                 <td width="13.333333%" align="center">
-                                                    <a href="" class="on-line">Comprar</a>
+                                                    <a href="https://ibgc.org.br/inscricao/evento/e2b43ee2-1902-ed11-82e6-002248de6f5f" class="on-line">Comprar</a>
                                                 </td>
                                                 <td width="13.333333%" align="center">
-                                                    <a href="" class="meeting">Comprar</a>
+                                                    <a href="https://ibgc.org.br/inscricao/evento/5b16a521-1802-ed11-82e6-002248de6f5f" class="meeting">Comprar</a>
                                                 </td>
                                             </tr>
                                         </tbody>
@@ -222,7 +222,7 @@
 
         <div class="row">
             <div class="col-12 col-md-8 inscricao-corporativa">
-                <a class="d-block text-center" href="#">Inscrição corporativa. Solicite sua proposta</a>
+                <a class="d-block text-center" href="mailto:paula.scalco@ibgc.org.br">Inscrição corporativa. Solicite sua proposta</a>
             </div>
         </div>
 
