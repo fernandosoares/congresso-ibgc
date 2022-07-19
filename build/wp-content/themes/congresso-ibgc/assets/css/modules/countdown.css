@@ -3,6 +3,9 @@
     color: #000;
     padding: 15px 0;
     font-family: "TT Commons Regular";
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 #contador p.starts,

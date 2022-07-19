@@ -27,7 +27,7 @@
     font-family: "TT Commons DemiBold", sans-serif;
     font-size: 22px;
     line-height: 25px;
-    height: 140px;
+    height: 160px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
@@ -40,9 +40,16 @@
     background-color: #a8489a;
 }
 
-
 #ingressos .stages thead tr th .table-ticket-type.meeting {
     background-color: #3f9c54;
+}
+
+#ingressos .stages thead tr th .table-ticket-type small {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 3px 0 5px 0;
+    background-color: rgba(255,255,255,.2);
 }
 
 #ingressos .stages tbody {
@@ -58,6 +65,11 @@
 #ingressos .ticket-info td,
 #ingressos .ticket-info th {
     border: none;
+}
+
+#ingressos .ticket-info td,
+#ingressos .ticket-info th {
+    font-size: 18px;
 }
 
 #ingressos .ticket-info.one {
@@ -91,6 +103,18 @@
     font-family: "TT Commons DemiBold", sans-serif;
     font-size: 38px;
     line-height: 38px;
+}
+
+#ingressos .ticket-type .holder {
+    position: relative;
+}
+
+#ingressos .ticket-type .holder small {
+    position: absolute;
+    left: 116px;
+    bottom: 5px;
+    font-size: 16px;
+    color: #3f9c54
 }
 
 #ingressos .ticket-type .flag {
@@ -173,7 +197,7 @@
 }
 
 #ingressos .inscricao-corporativa a {
-    border-radius: 30px;
+    border-radius: 50px;
     border: solid 2px #dbd259;
     padding: 10px 20px 13px 20px;
     color: #fff;
