@@ -16,7 +16,8 @@
                                 <th scope="col" width="60%"></th>
                                 <th scope="col" width="13.333333%">
                                     <div class="table-ticket-type on-person d-flex align-items-center justify-content-center text-center">
-                                        Congresso<br />Presencial
+                                        Congresso<br />Presencial*
+                                        <small>Vagas limitadas</small>
                                     </div>
                                 </th>
                                 <th scope="col" width="13.333333%">
@@ -27,6 +28,7 @@
                                 <th scope="col" width="13.333333%">
                                     <div class="table-ticket-type meeting d-flex align-items-center justify-content-center text-center">
                                         Congresso +<br />Encontro de<br />Conselheiros*
+                                        <small>Vagas limitadas</small>
                                     </div>
                                 </th>
                             </tr>
@@ -46,13 +48,13 @@
                                                 <th width="60%" scope="row">Associado</th>
                                                 <td width="13.333333%" align="center">R$ 3.270</td>
                                                 <td width="13.333333%" align="center">R$ 2.000</td>
-                                                <td width="13.333333%" align="center">R$ 4.389</td>
+                                                <td width="13.333333%" align="center">R$ 4.390</td>
                                             </tr>
                                             <tr>
                                                 <th width="60%" scope="row">Não associado</th>
                                                 <td width="13.333333%" align="center">R$ 5.050</td>
                                                 <td width="13.333333%" align="center">R$ 3.000</td>
-                                                <td width="13.333333%" align="center">R$ 6.589</td>
+                                                <td width="13.333333%" align="center">R$ 6.590</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -70,15 +72,15 @@
                                             </tr>
                                             <tr>
                                                 <th width="60%" scope="row">Associado</th>
-                                                <td width="13.333333%" align="center">R$ 3.270</td>
+                                                <td width="13.333333%" align="center">R$ 3.590</td>
                                                 <td width="13.333333%" align="center">R$ 2.000</td>
-                                                <td width="13.333333%" align="center">R$ 4.389</td>
+                                                <td width="13.333333%" align="center">R$ 4.730</td>
                                             </tr>
                                             <tr>
                                                 <th width="60%" scope="row">Não associado</th>
-                                                <td width="13.333333%" align="center">R$ 5.050</td>
+                                                <td width="13.333333%" align="center">R$ 5.540</td>
                                                 <td width="13.333333%" align="center">R$ 3.000</td>
-                                                <td width="13.333333%" align="center">R$ 6.589</td>
+                                                <td width="13.333333%" align="center">R$ 7.120</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -91,20 +93,20 @@
                                         <tbody>
                                             <tr>
                                                 <td colspan="4">
-                                                    <p>Fase 1 <span>(a partir de 19.10)</span></p>
+                                                    <p>Últimos dias <span>(a partir de 19.10)</span></p>
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <th width="60%" scope="row">Associado</th>
-                                                <td width="13.333333%" align="center">R$ 3.270</td>
+                                                <td width="13.333333%" align="center">R$ 3.950</td>
                                                 <td width="13.333333%" align="center">R$ 2.000</td>
-                                                <td width="13.333333%" align="center">R$ 4.389</td>
+                                                <td width="13.333333%" align="center">R$ 5.130</td>
                                             </tr>
                                             <tr>
                                                 <th width="60%" scope="row">Não associado</th>
-                                                <td width="13.333333%" align="center">R$ 5.050</td>
+                                                <td width="13.333333%" align="center">R$ 6.100</td>
                                                 <td width="13.333333%" align="center">R$ 3.000</td>
-                                                <td width="13.333333%" align="center">R$ 6.589</td>
+                                                <td width="13.333333%" align="center">R$ 7.730</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -157,7 +159,7 @@
                         <li class="enabled">Acesso ao app do Congresso</li>
                         <li class="enabled">Palestras nacionais e internacionais</li>
                         <li class="enabled">Sessões plenárias </li>
-                        <li class="enabled">Breakout rooms</li>
+                        <li class="enabled"><em>Breakout rooms</em></li>
                         <li class="enabled"><em>Masterclasses</em></li>
                         <li>Almoços-palestra exclusivos</li>
                         <li class="enabled"><em>Working lunch</em></li>
@@ -180,7 +182,7 @@
                         <li class="enabled">Acesso ao app do Congresso</li>
                         <li class="enabled">Palestras nacionais e internacionais</li>
                         <li class="enabled">Sessões plenárias </li>
-                        <li>Breakout rooms</li>
+                        <li><em>Breakout rooms</em></li>
                         <li><em>Masterclasses</em></li>
                         <li>Almoços-palestra exclusivos</li>
                         <li><em>Working lunch</em></li>
@@ -198,14 +200,17 @@
             <div class="col-12 col-md-4">
                 <div class="ticket-type meeting">
                     <div class="flag"></div>
-                    <h3>Congresso +<br>Encontro</h3>
+                    <div class="holder">
+                        <h3>Congresso +<br>Encontros</h3>
+                        <small>Exclusivo para conselheiros atuantes</small>
+                    </div>
                     <ul>
                         <li class="enabled">Acesso físico ao Congresso</li>
                         <li class="enabled">Acesso ao app do Congresso</li>
                         <li class="enabled">Palestras nacionais e internacionais</li>
                         <li class="enabled">Sessões plenárias </li>
-                        <li class="enabled">Breakout rooms</li>
-                        <li class="enabled"><em>Masterclasses</em></li>
+                        <li><em>Breakout rooms</em></li>
+                        <li><em>Masterclasses</em></li>
                         <li class="enabled">Almoços-palestra exclusivos</li>
                         <li><em>Working lunch</em></li>
                         <li class="enabled">Feira de negócios presencial</li>
@@ -221,7 +226,7 @@
         </div>
 
         <div class="row">
-            <div class="col-12 col-md-8 inscricao-corporativa">
+            <div class="col-12 col-md-6 inscricao-corporativa">
                 <a class="d-block text-center" href="mailto:paula.scalco@ibgc.org.br">Inscrição corporativa. Solicite sua proposta</a>
             </div>
         </div>
