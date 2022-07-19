@@ -1,8 +1,19 @@
-/* VENDOR */
-@import './vendor/bootstrap.min.css';
+/* FONTS */
+@import './fonts/fonts.css';
 
 /* COMMON STYLES */
 @import './common/app.css';
 
 /* SITE MODULES */
 @import './modules/nav.css';
+@import './modules/hero.css';
+@import './modules/video.css';
+@import './modules/schedule.css';
+@import './modules/tickets.css';
+@import './modules/speakers.css';
+@import './modules/previous.css';
+@import './modules/contact.css';
+@import './modules/sponsors.css';
+@import './modules/cta.css';
+@import './modules/countdown.css';
+@import './modules/footer.css';
