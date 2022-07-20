@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col-12">
 
-                <div class="table-responsive">
+                <div class="table-responsive d-none d-md-block">
                     <table class="table table-dark stages">
                         <thead>
                             <tr>
@@ -139,6 +139,149 @@
                         </tbody>
                     </table>
                 </div>
+
+                <div class="d-block d-md-none tipos">
+
+                    <div class="presencial">
+
+                        <div class="cabecalho">
+                            <h2>Congresso<br>Presencial</h2>
+                            <small>Vagas limitadas</small>
+                        </div>
+
+                        <h4>Fase 1 (até 23.08)</h4>
+
+                        <div class="tipo d-flex justify-content-between">
+                            <p>Associado</p>
+                            <p>R$ 3.270</p>
+                        </div>
+
+                        <div class="tipo d-flex justify-content-between">
+                            <p>Não Associado</p>
+                            <p>R$ 5.050</p>
+                        </div>
+
+                        <h4>Fase 2 (de 24.08 até 18.10)</h4>
+
+                        <div class="tipo d-flex justify-content-between">
+                            <p>Associado</p>
+                            <p>R$ 3.590</p>
+                        </div>
+
+                        <div class="tipo d-flex justify-content-between">
+                            <p>Não Associado</p>
+                            <p>R$ 5.540</p>
+                        </div>
+
+                        <h4>Últimos dias (a partir de 19.10)</h4>
+
+                        <div class="tipo d-flex justify-content-between">
+                            <p>Associado</p>
+                            <p>R$ 3.950</p>
+                        </div>
+
+                        <div class="tipo d-flex justify-content-between">
+                            <p>Não Associado</p>
+                            <p>R$ 6.100</p>
+                        </div>
+
+                        <a href="https://ibgc.org.br/inscricao/evento/4e7ff0a7-1202-ed11-82e6-002248de6f5f" class="comprar">Comprar</a>
+                    </div>
+
+                    <div class="on-line">
+
+                        <div class="cabecalho">
+                            <h2>Congresso<br>On-line</h2>
+                        </div>
+
+                        <h4>Fase 1 (até 23.08)</h4>
+
+                        <div class="tipo d-flex justify-content-between">
+                            <p>Associado</p>
+                            <p>R$ 2.000</p>
+                        </div>
+
+                        <div class="tipo d-flex justify-content-between">
+                            <p>Não Associado</p>
+                            <p>R$ 3.000</p>
+                        </div>
+
+                        <h4>Fase 2 (de 24.08 até 18.10)</h4>
+
+                        <div class="tipo d-flex justify-content-between">
+                            <p>Associado</p>
+                            <p>R$ 2.000</p>
+                        </div>
+
+                        <div class="tipo d-flex justify-content-between">
+                            <p>Não Associado</p>
+                            <p>R$ 3.000</p>
+                        </div>
+
+                        <h4>Últimos dias (a partir de 19.10)</h4>
+
+                        <div class="tipo d-flex justify-content-between">
+                            <p>Associado</p>
+                            <p>R$ 2.000</p>
+                        </div>
+
+                        <div class="tipo d-flex justify-content-between">
+                            <p>Não Associado</p>
+                            <p>R$ 3.000</p>
+                        </div>
+
+                        <a href="https://ibgc.org.br/inscricao/evento/e2b43ee2-1902-ed11-82e6-002248de6f5f" class="comprar">Comprar</a>
+                    </div>
+
+                    <div class="meeting">
+
+                        <div class="cabecalho">
+                            <h2>Congresso +<br>Encontro de<br>Conselheiros</h2>
+                            <small>Vagas limitadas</small>
+                        </div>
+
+                        <h4>Fase 1 (até 23.08)</h4>
+
+                        <div class="tipo d-flex justify-content-between">
+                            <p>Associado</p>
+                            <p>R$ 4.390</p>
+                        </div>
+
+                        <div class="tipo d-flex justify-content-between">
+                            <p>Não Associado</p>
+                            <p>R$ 6.590</p>
+                        </div>
+
+                        <h4>Fase 2 (de 24.08 até 18.10)</h4>
+
+                        <div class="tipo d-flex justify-content-between">
+                            <p>Associado</p>
+                            <p>R$ 4.730</p>
+                        </div>
+
+                        <div class="tipo d-flex justify-content-between">
+                            <p>Não Associado</p>
+                            <p>R$ 7.120</p>
+                        </div>
+
+                        <h4>Últimos dias (a partir de 19.10)</h4>
+
+                        <div class="tipo d-flex justify-content-between">
+                            <p>Associado</p>
+                            <p>R$ 5.130</p>
+                        </div>
+
+                        <div class="tipo d-flex justify-content-between">
+                            <p>Não Associado</p>
+                            <p>R$ 7.730</p>
+                        </div>
+
+                        <a href="https://ibgc.org.br/inscricao/evento/5b16a521-1802-ed11-82e6-002248de6f5f" class="comprar">Comprar</a>
+                    </div>
+
+                </div>
+
+
             </div>
         </div>
 
