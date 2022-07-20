@@ -1,0 +1,46 @@
+/* HD SCREENS */
+@media screen and (min-width: 768px) and (max-width: 1366px) {
+
+
+    #home .row.hero-row {
+        padding-top: 180px;
+    }
+
+    #home .row.hero-row h1 {
+        font-size: 64px;
+    }
+
+    #home .row.hero-row h2 {
+        font-size: 36px;
+    }
+
+    #home .row.hero-row .event-info {
+        font-size: 24px;
+        margin: 50px 0;
+    }
+
+    #home .row.hero-row .sobre p,
+    #home .row.hero-row .sobre a {
+        font-size: 20px;
+        line-height: 26px;
+    }
+
+    #palestrantes .palestrante .info,
+    .slick-slide img {
+        max-width: 300px;
+    }
+
+    #contador p.starts,
+    #contador p.text-share {
+        font-size: 18px;
+        margin: 0 15px 0 0;
+    }
+
+    #contador p {
+        font-size: 36px;
+    }
+
+    footer {
+        margin-bottom: 64px;
+    }
+}
