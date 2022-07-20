@@ -17,3 +17,7 @@
 @import './modules/cta.css';
 @import './modules/countdown.css';
 @import './modules/footer.css';
+
+/* RESPONSIVE */
+
+@import './common/responsive.css';

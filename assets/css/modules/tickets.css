@@ -25,9 +25,9 @@
 #ingressos .stages thead tr th .table-ticket-type {
     position: relative;
     font-family: "TT Commons DemiBold", sans-serif;
-    font-size: 22px;
-    line-height: 25px;
-    height: 160px;
+    font-size: 20px;
+    line-height: 20px;
+    height: 130px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
@@ -48,8 +48,9 @@
     position: absolute;
     bottom: 0;
     width: 100%;
-    padding: 3px 0 5px 0;
+    padding: 2px 0 3px 0;
     background-color: rgba(255,255,255,.2);
+    font-size: 16px;
 }
 
 #ingressos .stages tbody {
@@ -99,7 +100,7 @@
 }
 
 #ingressos .ticket-type h3 {
-    padding: 40px 0 30px 115px;
+    padding: 40px 0 50px 115px;
     font-family: "TT Commons DemiBold", sans-serif;
     font-size: 38px;
     line-height: 38px;
@@ -112,8 +113,9 @@
 #ingressos .ticket-type .holder small {
     position: absolute;
     left: 116px;
-    bottom: 5px;
-    font-size: 16px;
+    bottom: 0px;
+    font-size: 20px;
+    line-height: 22px;
     color: #3f9c54
 }
 
