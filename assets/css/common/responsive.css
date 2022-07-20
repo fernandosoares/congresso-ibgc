@@ -1,6 +1,9 @@
 /* HD SCREENS */
 @media screen and (min-width: 768px) and (max-width: 1366px) {
 
+    .nav-item {
+        margin-left: 10px;
+    }
 
     #home .row.hero-row {
         padding-top: 180px;
@@ -42,5 +45,56 @@
 
     footer {
         margin-bottom: 64px;
+    }
+}
+
+/* 768 SCREENS */
+@media screen and (min-width: 768px) and (max-width: 1180px) {
+
+    #ingressos .ticket-type h3 {
+        font-size: 28px;
+        line-height: 30px;
+        padding-left: 108px;
+    }
+
+    #ingressos .ticket-type .holder small {
+        font-size: 16px;
+        left: 110px;
+    }
+
+    #ingressos .ticket-type ul li {
+        font-size: 16px;
+    }
+
+    #ingressos .ticket-type {
+        margin: 0 5px;
+    }
+
+    #ingressos .ticket-type.presencial ul li,
+    #ingressos .ticket-type.on-line ul li, 
+    #ingressos .ticket-type.meeting ul li {
+        background-size: 20px;
+        padding-left: 45px;
+    }
+
+    #ingressos .inscricao-corporativa a {
+        font-size: 22px;
+    }
+
+    #duvidas {
+        font-size: 18px;
+    }
+
+    #contador p {
+        font-size: 26px;
+    }
+
+    #contador p.starts,
+    #contador p.text-share {
+        font-size: 16px;
+    }
+
+    footer {
+        margin-bottom: 48px;
     }
 }
