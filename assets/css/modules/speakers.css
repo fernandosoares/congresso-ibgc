@@ -3,7 +3,7 @@
 }
 
 #palestrantes h2 {
-    font-family: "TT Commons Bold", sans-serif;
+    font-weight: 700;
     font-size: 48px;
     margin: 0 0 70px 0;
 }
@@ -48,14 +48,14 @@
 
 #palestrantes .palestrante .info h3 {
     color: #b0d1ff;
-    font-family: "TT Commons DemiBold", sans-serif;
+    font-weight: 600;
     font-size: 24px;
     margin: 0 0 10px 0;
 }
 
 #palestrantes .palestrante .info p {
     color: #fff;
-    font-family: "TT Commons Regular", sans-serif;
+    font-weight: 400;
     font-size: 16px;
     margin: 0;
 }
