@@ -10,21 +10,21 @@
 }
 
 #home .row.hero-row h1 {
-    font-family: "TT Commons DemiBold", sans-serif;
+    font-weight: 600;
     font-size: 88px;
     margin: 0;
     padding: 0;
 }
 
 #home .row.hero-row h2 {
-    font-family: "TT Commons Light", sans-serif;
-    font-size: 60px;
+    font-weight: 200;
+    font-size: 56px;
     margin: 0;
     padding: 0;
 }
 
 #home .row.hero-row .event-info {
-    font-family: "TT Commons DemiBold", sans-serif;
+    font-weight: 600;
     color: #dbd259;
     font-size: 33px;
     margin: 55px 0 80px 0;
@@ -47,19 +47,19 @@
 }
 
 #home .row.hero-row .sobre h2 { 
-    font-family: "TT Commons Bold", sans-serif;
+    font-weight: 700;
     font-size: 44px;
     margin: 0 0 50px 0;
 }
 
 #home .row.hero-row .sobre p { 
-    font-family: "TT Commons Regular", sans-serif;
+    font-weight: 300;
     font-size: 30px;
     line-height: 34px;
 }
 
 #home .row.hero-row .sobre a { 
-    font-family: "TT Commons Medium", sans-serif;
+    font-weight: 400;
     font-size: 30px;
     line-height: 34px;
     color: #1e47b3;

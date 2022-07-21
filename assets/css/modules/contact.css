@@ -6,8 +6,7 @@
 }
 
 #duvidas .duvida {
-    font-family: "TT Commons Medium", sans-serif;
-    
+    font-weight: 500;    
 }
 
 #duvidas img {
@@ -17,4 +16,5 @@
 #duvidas a {
     color: #000;
     text-decoration: none;
+    font-weight: 500;    
 }
