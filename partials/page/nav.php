@@ -28,9 +28,9 @@
                         <img src="<?= get_template_directory_uri() . '/assets/img/usa.png' ?>" width="32" alt="USA" />
                     </a>
                 </li>
-                <li class="nav-item d-md-flex align-items-center">
+                <!-- <li class="nav-item d-md-flex align-items-center">
                     <a class="nav-link cta" aria-current="page" href="#ingressos">Inscreva-se</a>
-                </li>
+                </li> -->
             </ul>
         </div>
     </div>

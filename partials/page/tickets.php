@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col-12">
 
-                <div class="table-responsive d-none d-md-block">
+                <div class="table-responsive d-none d-lg-block">
                     <table class="table table-dark stages">
                         <thead>
                             <tr>
@@ -41,7 +41,7 @@
                                         <tbody>
                                             <tr>
                                                 <td colspan="4">
-                                                    <p>Fase 1 <span>(até 23.08)</span></p>
+                                                    <p>Fase 1 <span>(até 05.09)</span></p>
                                                 </td>
                                             </tr>
                                             <tr>
@@ -67,7 +67,7 @@
                                         <tbody>
                                             <tr>
                                                 <td colspan="4">
-                                                    <p>Fase 2 <span>(24.08 a 18.10)</span></p>
+                                                    <p>Fase 2 <span>(06.09 a 18.10)</span></p>
                                                 </td>
                                             </tr>
                                             <tr>
@@ -140,12 +140,12 @@
                     </table>
                 </div>
 
-                <div class="d-block d-md-none tipos">
+                <div class="d-block d-lg-none tipos">
 
                     <div class="presencial">
 
                         <div class="cabecalho">
-                            <h2>Congresso<br>Presencial</h2>
+                            <h2>Congresso<br>Presencial*</h2>
                             <small>Vagas limitadas</small>
                         </div>
 
@@ -184,7 +184,7 @@
                             <p>Não Associado</p>
                             <p>R$ 6.100</p>
                         </div>
-
+                        <small class="disclaimer">*Preços congelados de 2019.</small>
                         <a href="https://ibgc.org.br/inscricao/evento/4e7ff0a7-1202-ed11-82e6-002248de6f5f" class="comprar">Comprar</a>
                     </div>
 
@@ -236,7 +236,7 @@
                     <div class="meeting">
 
                         <div class="cabecalho">
-                            <h2>Congresso +<br>Encontro de<br>Conselheiros</h2>
+                            <h2>Congresso +<br>Encontro de<br>Conselheiros*</h2>
                             <small>Vagas limitadas</small>
                         </div>
 
@@ -275,7 +275,7 @@
                             <p>Não Associado</p>
                             <p>R$ 7.730</p>
                         </div>
-
+                        <small class="disclaimer">*Preços congelados de 2019.</small>
                         <a href="https://ibgc.org.br/inscricao/evento/5b16a521-1802-ed11-82e6-002248de6f5f" class="comprar">Comprar</a>
                     </div>
 
