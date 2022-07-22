@@ -100,10 +100,15 @@
 }
 
 #ingressos .ticket-type h3 {
-    padding: 40px 0 50px 115px;
+    padding: 15px 0 50px 115px;
     font-weight: 600;
     font-size: 38px;
     line-height: 38px;
+}
+
+#ingressos .ticket-type.on-line h3,
+#ingressos .ticket-type.presencial h3 {
+   padding-bottom: 70px;
 }
 
 #ingressos .ticket-type .holder {
@@ -123,7 +128,7 @@
     position: absolute;
     width: 138px;
     height: 109px;
-    top: 30px;
+    top: 10px;
     left: -29px;
 }
 

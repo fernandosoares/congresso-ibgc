@@ -149,7 +149,7 @@
                             <small>Vagas limitadas</small>
                         </div>
 
-                        <h4>Fase 1 (até 23.08)</h4>
+                        <h4>Fase 1 (até 05.09)</h4>
 
                         <div class="tipo d-flex justify-content-between">
                             <p>Associado</p>
@@ -161,7 +161,7 @@
                             <p>R$ 5.050</p>
                         </div>
 
-                        <h4>Fase 2 (de 24.08 até 18.10)</h4>
+                        <h4>Fase 2 (de 06.09 até 18.10)</h4>
 
                         <div class="tipo d-flex justify-content-between">
                             <p>Associado</p>
@@ -194,7 +194,7 @@
                             <h2>Congresso<br>On-line</h2>
                         </div>
 
-                        <h4>Fase 1 (até 23.08)</h4>
+                        <h4>Fase 1 (até 05.09)</h4>
 
                         <div class="tipo d-flex justify-content-between">
                             <p>Associado</p>
@@ -206,7 +206,7 @@
                             <p>R$ 3.000</p>
                         </div>
 
-                        <h4>Fase 2 (de 24.08 até 18.10)</h4>
+                        <h4>Fase 2 (de 06.09 até 18.10)</h4>
 
                         <div class="tipo d-flex justify-content-between">
                             <p>Associado</p>
@@ -240,7 +240,7 @@
                             <small>Vagas limitadas</small>
                         </div>
 
-                        <h4>Fase 1 (até 23.08)</h4>
+                        <h4>Fase 1 (até 05.09)</h4>
 
                         <div class="tipo d-flex justify-content-between">
                             <p>Associado</p>
@@ -252,7 +252,7 @@
                             <p>R$ 6.590</p>
                         </div>
 
-                        <h4>Fase 2 (de 24.08 até 18.10)</h4>
+                        <h4>Fase 2 (de 06.09 até 18.10)</h4>
 
                         <div class="tipo d-flex justify-content-between">
                             <p>Associado</p>
@@ -344,7 +344,7 @@
                 <div class="ticket-type meeting">
                     <div class="flag"></div>
                     <div class="holder">
-                        <h3>Congresso +<br>Encontros</h3>
+                        <h3>Congresso +<br>Encontro de<br>Conselheiros</h3>
                         <small>Exclusivo para conselheiros atuantes</small>
                     </div>
                     <ul>
