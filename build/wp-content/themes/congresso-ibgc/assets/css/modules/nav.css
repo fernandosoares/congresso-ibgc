@@ -37,6 +37,9 @@
         border-radius: 25px;
         padding: 5px 15px 7px;
     }
+    .navbar .nav-link.cta:hover {
+        color:#333;
+    }
 
 }
 
