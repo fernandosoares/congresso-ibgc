@@ -35,12 +35,12 @@
 
     #contador p.starts,
     #contador p.text-share {
-        font-size: 18px;
+        font-size: 15px;
         margin: 0 15px 0 0;
     }
 
     #contador p {
-        font-size: 36px;
+        font-size: 22px;
     }
 
     footer {
@@ -49,7 +49,7 @@
 }
 
 /* 768 SCREENS */
-@media screen and (min-width: 768px) and (max-width: 1180px) {
+@media screen and (min-width: 993px) and (max-width: 1180px) {
 
     #ingressos .ticket-type h3 {
         font-size: 28px;
@@ -91,7 +91,7 @@
 
     #contador p.starts,
     #contador p.text-share {
-        font-size: 16px;
+        font-size: 15px;
     }
 
     footer {
@@ -100,7 +100,7 @@
 }
 
 /* MOBILE */
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 992px) {
 
     section {
         scroll-margin-top: 115px !important;
@@ -121,10 +121,22 @@
     #patrocinadores img:nth-child(0) {
         margin-top: 25px !important;
     }
-    #patrocinadores img {
+    #patrocinadores .ouro img {
         margin: 40px auto;
         display: block;
-        max-width: 75%;
+        max-width: 80%;
+    }
+
+    #patrocinadores .bronze img {
+        margin: 40px auto;
+        display: block;
+        max-width: 50%;
+    }
+
+    #patrocinadores .parceiro-midia img {
+        margin: 40px auto;
+        display: block;
+        max-width: 30%;
     }
 
     #patrocinadores h4 {
@@ -185,18 +197,23 @@
     }
 
     .tipos .presencial .tipo {
-        background-color: #1e47b3;
+        background-color: #0b0a1e ;
     }
 
     .tipos .on-line .tipo {
-        background-color: #a8489a;
+        background-color: #0b0a1e ;
     }
 
     .tipos .meeting .tipo {
-        background-color: #3f9c54;
+        background-color: #0b0a1e ;
     }
 
-    
+    .tipos small.disclaimer {
+        text-align: center;
+        display: block;
+        color: #fff;
+        margin-top: 20px;
+    }
 
     .tipos .tipo p {
         margin: 0;
@@ -237,6 +254,11 @@
         font-size: 18px;
     }
 
+    #duvidas {
+        font-size: 18px;
+        padding: 25px 0;
+    }
+
     #duvidas .container .row div {
         justify-content: center !important;
         margin: 0 0 15px 0;
@@ -245,8 +267,14 @@
     #palestrantes {
         padding: 60px 0 120px; 
     }
-    
-    
+
+    #congressos .timeline .left {
+        left: 0
+    }
+
+    #congressos .timeline .right {
+        right: 0
+    }
 
     .slick-prev, .slick-next {
         display: none !important;
