@@ -20,6 +20,12 @@
                 <img src="<?= get_template_directory_uri() . '/assets/img/bronze-mxm.png' ?>" alt="MXM" />
             </div>
         </div>
+        <div class="row parceiros">
+            <div class="col-12 text-center">
+                <h4>Parceiros</h4>
+                <img src="<?= get_template_directory_uri() . '/assets/img/parceiro-chapter-zero.png' ?>" alt="Chapter Zero" />
+            </div>
+        </div>
         <div class="row parceiro-midia">
             <div class="col-12 text-center">
                 <h4>Parceiros de mídia</h4>
