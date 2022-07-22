@@ -4,7 +4,7 @@
 
 #ingressos h2 {
     color: #fff;
-    font-family: "TT Commons Bold", sans-serif;
+    font-weight: 700;
     font-size: 42px;
     margin: 80px 0 0 0
 }
@@ -24,10 +24,10 @@
 
 #ingressos .stages thead tr th .table-ticket-type {
     position: relative;
-    font-family: "TT Commons DemiBold", sans-serif;
-    font-size: 22px;
-    line-height: 25px;
-    height: 160px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    height: 130px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
@@ -48,8 +48,9 @@
     position: absolute;
     bottom: 0;
     width: 100%;
-    padding: 3px 0 5px 0;
+    padding: 2px 0 3px 0;
     background-color: rgba(255,255,255,.2);
+    font-size: 16px;
 }
 
 #ingressos .stages tbody {
@@ -73,7 +74,7 @@
 }
 
 #ingressos .ticket-info.one {
-    font-family: "TT Commons Regular";
+    font-weight: 400;
     color: #fff;
 }
 
@@ -81,14 +82,14 @@
     margin: 0;
     padding: 0;
     font-size: 20px;
-    font-family: "TT Commons DemiBold";
+    font-weight: 600;
 }
 
 #ingressos .ticket-info.one p span {
     margin: 0;
     padding: 0;
     font-size: 20px;
-    font-family: "TT Commons Regular";
+    font-weight: 400;
 }
 
 #ingressos .ticket-type {
@@ -99,10 +100,15 @@
 }
 
 #ingressos .ticket-type h3 {
-    padding: 40px 0 30px 115px;
-    font-family: "TT Commons DemiBold", sans-serif;
+    padding: 15px 0 50px 115px;
+    font-weight: 600;
     font-size: 38px;
     line-height: 38px;
+}
+
+#ingressos .ticket-type.on-line h3,
+#ingressos .ticket-type.presencial h3 {
+   padding-bottom: 70px;
 }
 
 #ingressos .ticket-type .holder {
@@ -112,8 +118,9 @@
 #ingressos .ticket-type .holder small {
     position: absolute;
     left: 116px;
-    bottom: 5px;
-    font-size: 16px;
+    bottom: 0px;
+    font-size: 20px;
+    line-height: 22px;
     color: #3f9c54
 }
 
@@ -121,7 +128,7 @@
     position: absolute;
     width: 138px;
     height: 109px;
-    top: 30px;
+    top: 10px;
     left: -29px;
 }
 
@@ -158,7 +165,7 @@
 }
 
 #ingressos .ticket-type ul li {
-    font-family: "TT Commons Regular", sans-serif;
+    font-weight: 400;
     font-size: 20px;
     
 }
@@ -201,7 +208,7 @@
     border: solid 2px #dbd259;
     padding: 10px 20px 13px 20px;
     color: #fff;
-    font-family: "TT Commons DemiBold", sans-serif;
+    font-weight: 600;
     font-size: 26px;
     text-decoration: none;
 }
@@ -221,7 +228,7 @@
     text-decoration: none;
     padding: 8px 25px 10px 25px;
     font-size: 18px;
-    font-family: "TT Commons Medium", sans-serif;
+    font-weight: 500;
     border-radius: 30px;
 }
 

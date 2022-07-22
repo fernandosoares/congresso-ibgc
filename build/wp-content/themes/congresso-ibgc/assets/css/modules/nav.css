@@ -1,9 +1,9 @@
 .navbar {
     
     width: 100%;
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
-    background-color: rgba(0,0,0,.7) !important;
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+    background-color: rgba(0,0,0,1) !important;
     position: fixed;
 }
 
@@ -12,13 +12,13 @@
 }
 
 .nav-item a {
-    font-family: 'TT Commons Medium', sans-serif;
+    font-weight: 500;
     font-size: 18px;
     color: #fff;
 }
 
 .navbar-brand img {
-    width: 260px;
+    width: 230px;
 }
 
 .navbar .nav-link img {
@@ -34,7 +34,7 @@
     .navbar .nav-link.cta {
         color:#000;
         background-color: #fff;
-        border-radius: 15px;
+        border-radius: 25px;
         padding: 5px 15px 7px;
     }
 

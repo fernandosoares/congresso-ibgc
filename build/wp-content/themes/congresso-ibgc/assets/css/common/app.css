@@ -1,11 +1,12 @@
 html {
     scroll-behavior: smooth;
 }
-
+*,
+html,
 body {
-    font-family: 'TT Commons Regular', sans-serif;
+    font-family: 'TT Commons', sans-serif;
 }
 
 section {
-    scroll-margin-top: 140px;
+    scroll-margin-top: 120px;
 }

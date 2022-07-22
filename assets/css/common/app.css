@@ -1,9 +1,10 @@
 html {
     scroll-behavior: smooth;
 }
-
+*,
+html,
 body {
-    font-family: 'TT Commons Regular', sans-serif;
+    font-family: 'TT Commons', sans-serif;
 }
 
 section {
