@@ -93,25 +93,14 @@
     color: #0e818b;
 }
 
+
+#patrocinadores .parceiro-midia,
 #patrocinadores .parceiros {
-    height: 2px;
-    background-color: #fff;
-    margin-bottom: 250px;
-}
-
-#patrocinadores .parceiros h4 {
-    border: 2px solid #fff;
-    border-top-color: #05030f;
-    border-bottom-color: #05030f;
-    color: #fff;
-}
-
-
-#patrocinadores .parceiro-midia {
     border-top: solid 2px #fff;
 }
 
-#patrocinadores .parceiro-midia h4 {
+#patrocinadores .parceiro-midia h4,
+#patrocinadores .parceiros h4 {
     border: 2px solid #fff;
     border-top-color: #05030f;
     border-bottom-color: #05030f;
