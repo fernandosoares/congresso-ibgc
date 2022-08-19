@@ -50,6 +50,7 @@
                         </div>
                     </div>
                 </div>
+                <small class="d-block mt-2">*Sujeito a alterações</small>
             </div>
         </div>
     </div>
