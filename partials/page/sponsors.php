@@ -29,14 +29,16 @@
         <div class="row bronze">
             <div class="col-12 text-center">
                 <h4>Bronze</h4>
+                <img src="<?= get_template_directory_uri() . '/assets/img/bronze-aws.png' ?>" alt="AWS" />
+                <img src="<?= get_template_directory_uri() . '/assets/img/bronze-bradesco.png' ?>" alt="BRADESCO" />
                 <img src="<?= get_template_directory_uri() . '/assets/img/bronze-mxm.png' ?>" alt="MXM" />
             </div>
         </div>
         <div class="row plus">
             <div class="col-12 text-center">
                 <h4>Plus</h4>
-                <img src="<?= get_template_directory_uri() . '/assets/img/Plus-EXEC.png' ?>" alt="EXEC" />
                 <img src="<?= get_template_directory_uri() . '/assets/img/Plus-Itausa.png' ?>" alt="ITAUSA" />
+                <img src="<?= get_template_directory_uri() . '/assets/img/plus-exec.png' ?>" alt="EXEC" />
             </div>
         </div>
         <div class="row parceiros">
