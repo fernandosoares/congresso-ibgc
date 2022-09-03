@@ -3,6 +3,10 @@
         <div class="row">
             <div class="col-12">
                 <h2>Programação</h2>
+                <div class="mb-3">
+                    <small class="d-block mb-0">*Programação sujeita a alterações</small>
+                    <small>**Melhor visualizado via Desktop</small>
+                </div>
                 <div class="accordion" id="accordionExample">
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingOne">
