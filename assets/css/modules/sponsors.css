@@ -12,7 +12,7 @@
     margin: 0 0 80px 0;
     font-weight: 600;
     font-size: 44px;
-    color:#fff;
+    color: #fff;
 }
 
 #patrocinadores img {
@@ -31,10 +31,7 @@
 }
 
 #patrocinadores .master {
-    position: relative;
-    height: 2px;
-    background-color: #4bbb63;
-    margin-bottom: 250px;
+    border-top: solid 2px #4bbb63
 }
 
 #patrocinadores .master h4 {
@@ -56,9 +53,7 @@
 }
 
 #patrocinadores .prata {
-    height: 2px;
-    background-color: #fff;
-    margin-bottom: 250px;
+    border-top: solid 2px #fff
 }
 
 #patrocinadores .prata h4 {
@@ -67,7 +62,6 @@
     border-bottom-color: #05030f;
     color: #fff;
 }
-
 
 #patrocinadores .bronze {
     border-top: solid 2px #d79422;
@@ -81,18 +75,15 @@
 }
 
 #patrocinadores .plus {
-    height: 2px;
-    background-color: #0e818b;
-    margin-bottom: 250px;
+    border-top: solid 2px #119fa8;
 }
 
 #patrocinadores .plus h4 {
-    border: 2px solid #0e818b;
+    border: 2px solid #119fa8;
     border-top-color: #05030f;
     border-bottom-color: #05030f;
-    color: #0e818b;
+    color: #119fa8;
 }
-
 
 #patrocinadores .parceiro-midia,
 #patrocinadores .parceiros {
@@ -106,4 +97,3 @@
     border-bottom-color: #05030f;
     color: #fff;
 }
-
