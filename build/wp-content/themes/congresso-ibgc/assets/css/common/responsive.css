@@ -71,7 +71,7 @@
     }
 
     #ingressos .ticket-type.presencial ul li,
-    #ingressos .ticket-type.on-line ul li, 
+    #ingressos .ticket-type.on-line ul li,
     #ingressos .ticket-type.meeting ul li {
         background-size: 20px;
         padding-left: 45px;
@@ -121,6 +121,7 @@
     #patrocinadores img:nth-child(0) {
         margin-top: 25px !important;
     }
+
     #patrocinadores .ouro img {
         margin: 40px auto;
         display: block;
@@ -168,7 +169,7 @@
     .tipos .meeting .cabecalho {
         background-color: #3f9c54;
     }
-    
+
 
     .tipos .cabecalho h2 {
         margin: 0 !important;
@@ -179,7 +180,7 @@
     }
 
     .tipos .cabecalho small {
-        background-color:rgba(255,255,255,.2);
+        background-color: rgba(255, 255, 255, .2);
         position: absolute;
         bottom: 0;
         left: 0;
@@ -197,15 +198,15 @@
     }
 
     .tipos .presencial .tipo {
-        background-color: #0b0a1e ;
+        background-color: #0b0a1e;
     }
 
     .tipos .on-line .tipo {
-        background-color: #0b0a1e ;
+        background-color: #0b0a1e;
     }
 
     .tipos .meeting .tipo {
-        background-color: #0b0a1e ;
+        background-color: #0b0a1e;
     }
 
     .tipos small.disclaimer {
@@ -237,6 +238,7 @@
     .tipos .presencial .comprar {
         background-color: #1e47b3;
     }
+
     .tipos .on-line .comprar {
         background-color: #a8489a;
     }
@@ -265,7 +267,7 @@
     }
 
     #palestrantes {
-        padding: 60px 0 120px; 
+        padding: 60px 0 120px;
     }
 
     #congressos .timeline .left {
@@ -276,12 +278,13 @@
         right: 0
     }
 
-    .slick-prev, .slick-next {
+    .slick-prev,
+    .slick-next {
         display: none !important;
     }
 
     #cta-bottom a {
-        font-size: 26px;
+        font-size: 24px;
     }
 
     #contador p {
@@ -296,8 +299,14 @@
         margin-bottom: 137px;
     }
 
-    footer p, footer a {
+    footer p,
+    footer a {
         font-size: 16px;
+    }
+
+    #contador .share a.inscreva {
+        font-size: 14px;
+        padding: 9px 20px 7px;
     }
 
 }
