@@ -56,6 +56,16 @@
     margin: 0 10px 0 0;
 }
 
+#programacao .accordion .titulo p {
+    margin-right: 15px;
+}
+
+#programacao .accordion .titulo .check {
+    margin: 0 2px;
+    background-size: 69%;
+    background-position: 50%;
+}
+
 #programacao .accordion .item {
     font-size: 18px;
     margin: 0 0 10px 0;
