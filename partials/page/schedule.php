@@ -31,7 +31,7 @@
                                 </div>
                                 <div class="row item align-items-center">
                                     <div class="col-12 col-md-1 text-center fw-bold hour">9h</div>
-                                    <div class="col-12 col-md-10 fw-bold">Início do credenciamento – Networking Coffee</div>
+                                    <div class="col-12 col-md-10 fw-bold">Início do credenciamento – <em>Networking Coffee</em></div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
                                         <div class="check"></div>
@@ -72,8 +72,8 @@
                                     <div class="col-12 col-md-1 text-center fw-bold hour">11h20 às 11h50</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
-                                        Governança corporativa descentralizada nas empresas DAO (Decentralized Autonomous Organization)<br>
-                                        <div class="fw-normal">A confirmar</div>
+                                        Governança corporativa descentralizada nas empresas DAO (<em>Decentralized Autonomous Organization</em>)<br>
+                                        <div class="fw-normal"><em>A confirmar</em></div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
@@ -87,7 +87,7 @@
                                     <div class="col-12 col-md-10 fw-bold">
                                         [encontro de conselheiros]<br>
                                         ESG – Responsabilização dos conselheiros<br>
-                                        <div class="fw-normal">A confirmar</div>
+                                        <div class="fw-normal"><em>A confirmar</em></div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check"></div>
@@ -99,8 +99,9 @@
                                 <div class="row item align-items-center">
                                     <div class="col-12 col-md-1 text-center fw-bold hour">13h às 14h</div>
                                     <div class="col-12 col-md-10 fw-bold">
+                                        [encontro de conselheiros]<br>
                                         ESG – Casos práticos de responsabilização dos conselheiros<br>
-                                        <div class="fw-normal">A confirmar</div>
+                                        <div class="fw-normal"><em>A confirmar</em></div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check"></div>
@@ -112,7 +113,7 @@
                                 <div class="row item align-items-center">
                                     <div class="col-12 col-md-1 text-center fw-bold hour">12h às 14h</div>
                                     <div class="col-12 col-md-10 fw-bold">
-                                        Working lunch e Masterclass
+                                        <em>Working lunch</em> e <em>Masterclass</em>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
@@ -139,7 +140,7 @@
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
                                         Cultura e propósito: A necessária transformação das organizações<br>
-                                        <div class="fw-normal">A confirmar</div>
+                                        <div class="fw-normal"><em>A confirmar</em></div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
@@ -165,13 +166,8 @@
 
                                 <div class="row item align-items-center">
                                     <div class="col-12 col-md-1 text-center fw-bold hour">15h45 às 16h15</div>
-                                    <div class="col-12 col-md-10 fw-bold">
+                                    <div class="col-12 col-md-11 fw-bold">
                                         Intervalo<br>
-                                    </div>
-                                    <div class="col-12 col-md-1 d-flex align-items-center">
-                                        <div class="check presencial"></div>
-                                        <div class="check on"></div>
-                                        <div class="check encontros"></div>
                                     </div>
                                 </div>
 
@@ -286,7 +282,7 @@
                                 </div>
 
                                 <div class="row item align-items-center">
-                                    <div class="col-12 col-md-1 text-center fw-bold hour">17h50 às 17h35</div>
+                                    <div class="col-12 col-md-1 text-center fw-bold hour">17h50 às 18h35</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
                                         O impacto das novas tecnologias na governança corporativa – do <em>hype</em> à realidade<br>
@@ -351,7 +347,7 @@
 
                                 <div class="row item align-items-center">
                                     <div class="col-12 col-md-1 text-center fw-bold hour">7h30</div>
-                                    <div class="col-12 col-md-10 fw-bold">Início do credenciamento – Networking Coffee</div>
+                                    <div class="col-12 col-md-10 fw-bold">Início do credenciamento – <em>Networking Coffee</em></div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
                                         <div class="check"></div>
@@ -361,7 +357,7 @@
 
                                 <div class="row item align-items-center">
                                     <div class="col-12 col-md-1 text-center fw-bold hour">8h30 às 8h40</div>
-                                    <div class="col-12 col-md-10 fw-bold">Abertura </div>
+                                    <div class="col-12 col-md-10 fw-bold">Abertura</div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
                                         <div class="check"></div>
@@ -390,9 +386,9 @@
                                     <div class="col-12 col-md-1 text-center fw-bold hour">9h às 9h45</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
-                                        Governança de stakeholders: Desenvolvimento sustentável de comunidades<br>
+                                        Governança de <em>stakeholders</em>: Desenvolvimento sustentável de comunidades<br>
                                         <div class="fw-normal">
-                                            AVirgílio Viana, superintendente geral da Fundação Amazônia Sustentável<br>
+                                            Virgílio Viana, superintendente geral da Fundação Amazônia Sustentável<br>
                                             Moderação: Naiara Bertão, editora do Valor Econômico/ Prática ESG
                                         </div>
                                     </div>
@@ -423,13 +419,8 @@
 
                                 <div class="row item align-items-center">
                                     <div class="col-12 col-md-1 text-center fw-bold hour">10h40 às 11h05</div>
-                                    <div class="col-12 col-md-10 fw-bold">
+                                    <div class="col-12 col-md-11 fw-bold">
                                         Intervalo
-                                    </div>
-                                    <div class="col-12 col-md-1 d-flex align-items-center">
-                                        <div class="check presencial"></div>
-                                        <div class="check on"></div>
-                                        <div class="check encontros"></div>
                                     </div>
                                 </div>
                                 <div class="row item align-items-center">
@@ -542,7 +533,7 @@
                                 <div class="row item align-items-center">
                                     <div class="col-12 col-md-1 text-center fw-bold hour">12h às 14h</div>
                                     <div class="col-12 col-md-10 fw-bold">
-                                        Working lunch e Masterclass
+                                        <em>Working lunch</em> e <em>Masterclass</em>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
@@ -571,7 +562,7 @@
 
                                         <!-- ITEM SIMULTÂNEO -->
                                         <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0">Sala de discussão 1 – Revisão do Código das Melhores Práticas de Governança Corporativa</p>
+                                            <p class="fw-bold mb-0">Sala de discussão 1 – Revisão do <em>Código das Melhores Práticas de Governança Corporativa</em></p>
                                             <div class="check presencial"></div>
                                             <div class="check"></div>
                                             <div class="check encontros"></div>
@@ -580,7 +571,7 @@
 
                                         <!-- ITEM SIMULTÂNEO -->
                                         <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0">Sala de discussão 2 – Revisão do Código das Melhores Práticas de Governança Corporativa</p>
+                                            <p class="fw-bold mb-0">Sala de discussão 2 – Revisão do <em>Código das Melhores Práticas de Governança Corporativa</em></p>
                                             <div class="check presencial"></div>
                                             <div class="check"></div>
                                             <div class="check encontros"></div>
@@ -589,7 +580,7 @@
 
                                         <!-- ITEM SIMULTÂNEO -->
                                         <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0">Sala de discussão 3 – Revisão do Código das Melhores Práticas de Governança Corporativa</p>
+                                            <p class="fw-bold mb-0">Sala de discussão 3 – Revisão do <em>Código das Melhores Práticas de Governança Corporativa</em></p>
                                             <div class="check presencial"></div>
                                             <div class="check"></div>
                                             <div class="check encontros"></div>
@@ -598,7 +589,7 @@
 
                                         <!-- ITEM SIMULTÂNEO -->
                                         <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0">Sala de discussão 4 – Revisão do Código das Melhores Práticas de Governança Corporativa</p>
+                                            <p class="fw-bold mb-0">Sala de discussão 4 – Revisão do <em>Código das Melhores Práticas de Governança Corporativa</em></p>
                                             <div class="check presencial"></div>
                                             <div class="check"></div>
                                             <div class="check encontros"></div>
@@ -607,7 +598,7 @@
 
                                         <!-- ITEM SIMULTÂNEO -->
                                         <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0">Sala de discussão 5 – Revisão do Código das Melhores Práticas de Governança Corporativa</p>
+                                            <p class="fw-bold mb-0">Sala de discussão 5 – Revisão do <em>Código das Melhores Práticas de Governança Corporativa</em></p>
                                             <div class="check presencial"></div>
                                             <div class="check"></div>
                                             <div class="check encontros"></div>
@@ -616,7 +607,7 @@
 
                                         <!-- ITEM SIMULTÂNEO -->
                                         <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0">Sala de discussão 6 – Revisão do Código das Melhores Práticas de Governança Corporativa</p>
+                                            <p class="fw-bold mb-0">Sala de discussão 6 – <em>Revisão do Código das Melhores Práticas de Governança Corporativa</em></p>
                                             <div class="check presencial"></div>
                                             <div class="check"></div>
                                             <div class="check encontros"></div>
@@ -627,14 +618,9 @@
                                 </div>
 
                                 <div class="row item align-items-center">
-                                    <div class="col-12 col-md-1 text-center fw-bold hour">16h30 às 16h30</div>
-                                    <div class="col-12 col-md-10 fw-bold">
+                                    <div class="col-12 col-md-1 text-center fw-bold hour">16h às 16h30</div>
+                                    <div class="col-12 col-md-11 fw-bold">
                                         Intervalo
-                                    </div>
-                                    <div class="col-12 col-md-1 d-flex align-items-center">
-                                        <div class="check presencial"></div>
-                                        <div class="check on"></div>
-                                        <div class="check encontros"></div>
                                     </div>
                                 </div>
 
