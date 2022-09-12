@@ -5,7 +5,7 @@ jQuery(document).ready(function () {
         slidesToScroll: 1,
     })
 
-    jQuery('#contador').countdown('2022/11/01', function (event) {
+    jQuery('#contador').countdown('2022/11/09', function (event) {
         jQuery('#contador .day').html(event.strftime('%D <span>dias</span>'));
         jQuery('#contador .hour').html(event.strftime('%H <span>horas</span>'));
         jQuery('#contador .minutes').html(event.strftime('%M <span>minutos</span>'));
