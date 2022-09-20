@@ -73,7 +73,9 @@
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
                                         Governança corporativa descentralizada nas empresas DAO (<em>Decentralized Autonomous Organization</em>)<br>
-                                        <div class="fw-normal"><em>A confirmar</em></div>
+                                        <div class="fw-normal">
+                                            Martha Oliveira, CEO Grupo Laços Saúde
+                                        </div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
@@ -136,11 +138,13 @@
 
 
                                 <div class="row item align-items-center">
-                                    <div class="col-12 col-md-1 text-center fw-bold hour">14h30 às 15h05</div>
+                                    <div class="col-12 col-md-1 text-center fw-bold hour">14h30 às 14h55</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
                                         Cultura e propósito: A necessária transformação das organizações<br>
-                                        <div class="fw-normal"><em>A confirmar</em></div>
+                                        <div class="fw-normal">
+                                            Carolyn Taylor, fundadora e presidente executiva da Walking the Talk
+                                        </div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
@@ -150,12 +154,14 @@
                                 </div>
 
                                 <div class="row item align-items-center">
-                                    <div class="col-12 col-md-1 text-center fw-bold hour">15h05 às 15h45</div>
+                                    <div class="col-12 col-md-1 text-center fw-bold hour">14h55 às 15h45</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
                                         Preparando as empresas familiares para o amanhã<br>
                                         <div class="fw-normal">José Roberto Goulart, diretor presidente da Alibem Alimentos S.A.<br>
-                                            Jacqueline da Silva Goulart, advogada da Alibem Alimentos S.A.</div>
+                                            Jacqueline da Silva Goulart, advogada da Alibem Alimentos S.A.<br>
+                                            Moderação: Gabriela Baumgart, presidente do conselho de administração do IBGC
+                                        </div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
@@ -199,7 +205,8 @@
                                         </div>
 
                                         <div class="mb-3 fw-normal">
-                                            Evandro Menezes de Carvalho, professor de Direito Internacional e Coordenador do Núcleo de Estudos Brasil-China da FGV Direito (Rio de Janeiro). Consultor de Galdino & Coelho Advogados.
+                                            Evandro Menezes de Carvalho, professor de Direito Internacional e Coordenador do Núcleo de Estudos Brasil-China da FGV Direito (Rio de Janeiro). Consultor de Galdino & Coelho Advogados.<br>
+                                            Way Chien, CFO na Great Wall Motors Brasil
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
 
@@ -213,7 +220,8 @@
 
                                         <div class="mb-3 fw-normal">
                                             Rodrigo Bressan, professor adjunto livre docente do Laboratório Interdisciplinar de Neurociências Clínicas (LinC/Unifesp)<br>
-                                            Fleury Johnson, Head Global de Saúde do Nubank
+                                            Fleury Johnson, Head Global de Saúde do Nubank<br>
+                                            Moderação: Vicky Bloch, sócia diretora da Vicky Bloch Associados
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
 
@@ -227,6 +235,7 @@
 
                                         <div class="mb-3 fw-normal">
                                             Nina Silva, CEO do Movimento Black Money & D'Black Bank<br>
+                                            Caetano Minchillo, gerente da unidade de Capitalização e Serviços Financeiros do Sebrae Nacional<br>
                                             Moderação: Jose Kobori, sócio-diretor da JK Global Partners Consultoria e Assessoria Empresarial
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
@@ -241,7 +250,8 @@
 
                                         <div class="mb-3 fw-normal">
                                             Marco Antonio Fujihara, coordenador do Fórum Nacional de Mudanças Climáticas<br>
-                                            Carlos Martins, diretor da EQAO e da BlockC
+                                            Carlos Martins, diretor da EQAO e da BlockC<br>
+                                            Moderação: Nelmara Arbex, sócia líder de ESG na KPMG
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
 
@@ -254,7 +264,7 @@
                                         </div>
 
                                         <div class="mb-3 fw-normal">
-                                            Dora Kaufman, professora na PUC-SP<br>
+                                            Dora Kaufman, professora do Programa de Tecnologias da Inteligência e Design Digital (TIDD) da PUC-São Paulo<br>
                                             Rodrigo Cunha, fundador e diretor de inovação da Neurotech<br>
                                             Moderação: Pierre Lucena, diretor presidente do Núcleo de Gestão do Porto Digital
                                         </div>
@@ -271,6 +281,7 @@
                                         <div class="fw-normal">
                                             João Pedro Nascimento, presidente da Comissão de Valores Mobiliários (CVM)<br>
                                             Gilson Rodrigues, presidente da G10 Favelas<br>
+                                            Patricia Stille,CEO da BEE4<br>
                                             Moderação: Gilson Finkelsztain, presidente da B3
                                         </div>
                                     </div>
@@ -437,6 +448,7 @@
                                         </div>
 
                                         <div class="mb-3 fw-normal">
+                                            Geyze Diniz, conselheira da Península Participações<br>
                                             Preto Zezé, presidente nacional da CUFA (Central Única das Favelas)<br>
                                             Moderação: Beatriz Pacheco, diretora executiva do Instituto Akatu para o Consumo Consciente
                                         </div>
@@ -444,14 +456,16 @@
 
                                         <!-- ITEM SIMULTÂNEO -->
                                         <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0">Eletrobrás: a trajetória para a privatização</p>
+                                            <p class="fw-bold mb-0">Eletrobras: a trajetória para a privatização</p>
                                             <div class="check presencial"></div>
                                             <div class="check"></div>
                                             <div class="check encontros"></div>
                                         </div>
 
                                         <div class="mb-3 fw-normal">
-                                            <em>A confirmar</em>
+                                            Wilson Ferreira Junior, CEO da Eletrobrás<br>
+                                            José G. Monforte, sócio da Emax Ltda<br>
+                                            Moderação: Lucia Casasanta, conselheira de administração do Grupo Madero e da Santo Antônio Energia
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
 
@@ -464,7 +478,8 @@
                                         </div>
 
                                         <div class="mb-3 fw-normal">
-                                            <em>A confirmar</em>
+                                            Dan Yamamura, fundador da Fuse Capital<br>
+                                            Moderação: Mariana Assis, diretora de Customer Success, América Latina na Reality Labs from Meta
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
 
@@ -477,7 +492,8 @@
                                         </div>
 
                                         <div class="mb-3 fw-normal">
-                                            Kathleen Krause, chefe adjunta do departamento de Regulação Prudencial e Cambial do Banco Central do Brasil
+                                            Kathleen Krause, chefe adjunta do departamento de Regulação Prudencial e Cambial do Banco Central do Brasil<br>
+                                            Marcello Brito, CEO da CBKK S.A
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
 
@@ -503,7 +519,7 @@
                                         </div>
 
                                         <div class="mb-3 fw-normal">
-                                            Ana Carolina Audi, sócia de Demarest Advogados<br>
+                                            Ana Carolina Botto Audi, sócia de Demarest Advogados<br>
                                             Fabio Coelho, presidente executivo da Associação de investidores no Mercado de Capitais (Amec)<br>
                                             Moderação: Flavia Mouta, diretora de Emissores da B3
                                         </div>
@@ -519,8 +535,7 @@
                                         Independência do conselheiro: Como medir e em quanto tempo é perdida?<br>
                                         <div class="fw-normal">
                                             David R. Beatty, presidente do Centro de Inovação em Governança Sharon & David Johnston e professor de Estratégia na Escola de Administração Rotman (Universidade de Toronto)<br>
-                                            José Galló, presidente do conselho de administração da Lojas Renner<br>
-                                            Moderação: Renato Chaves, conselheiro fiscal na Randon
+                                            José Galló, presidente do conselho de administração da Lojas Renner
                                         </div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
@@ -630,7 +645,7 @@
                                         [sessão plenária]<br>
                                         O Brasil a caminho da OCDE<br>
                                         <div class="fw-normal">
-                                            <em>A confirmar</em>
+                                            Caio de Oliveira, gerente do programa em Governança Corporativa na América Latina na OCDE
                                         </div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
