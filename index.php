@@ -6,9 +6,9 @@
 
     <?php require_once 'partials/page/nav.php'; ?>
     <?php require_once 'partials/page/hero.php'; ?>
+    <?php require_once 'partials/page/speakers.php'; ?>
     <?php require_once 'partials/page/schedule.php'; ?>
     <?php require_once 'partials/page/tickets.php'; ?>
-    <?php require_once 'partials/page/speakers.php'; ?>
     <?php require_once 'partials/page/previous.php'; ?>
     <?php require_once 'partials/page/contact.php'; ?>
     <?php require_once 'partials/page/video.php'; ?>
