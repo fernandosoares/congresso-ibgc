@@ -7,7 +7,7 @@
         </div>
     </div>
     <div class="container-fluid">
-    <div class="row master">
+        <div class="row master">
             <div class="col-12 text-center">
                 <h4>Master</h4>
                 <img src="<?= get_template_directory_uri() . '/assets/img/master-kpmg.png' ?>" alt="KPMG" />
@@ -24,6 +24,7 @@
             <div class="col-12 text-center">
                 <h4>Prata</h4>
                 <img src="<?= get_template_directory_uri() . '/assets/img/Prata-Diligent.png' ?>" alt="Diligent" />
+                <img src="<?= get_template_directory_uri() . '/assets/img/prata-Walking-the-talk.png' ?>" alt="Walking the Talk" />
             </div>
         </div>
         <div class="row bronze">
@@ -37,8 +38,11 @@
         <div class="row plus">
             <div class="col-12 text-center">
                 <h4>Plus</h4>
-                <img src="<?= get_template_directory_uri() . '/assets/img/Plus-Itausa.png' ?>" alt="ITAUSA" />
                 <img src="<?= get_template_directory_uri() . '/assets/img/plus-exec.png' ?>" alt="EXEC" />
+                <img src="<?= get_template_directory_uri() . '/assets/img/plus-flow.png' ?>" alt="FLOW" />
+                <img src="<?= get_template_directory_uri() . '/assets/img/plus-gm.png' ?>" alt="GM" />
+                <img src="<?= get_template_directory_uri() . '/assets/img/Plus-Itausa.png' ?>" alt="ITAUSA" />
+                <img src="<?= get_template_directory_uri() . '/assets/img/plus-mz.png' ?>" alt="MZ" />
             </div>
         </div>
         <div class="row parceiros">

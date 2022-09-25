@@ -23,6 +23,15 @@
                         </div>
                     </div>
                     <div class="palestrante">
+                        <img src="<?= get_template_directory_uri() . '/assets/img/caio-de-oliveira.jpg' ?>" alt="Caio de Oliveira" />
+                        <div class="info">
+                            <a href="https://www.linkedin.com/in/caio-figueiredo-c-de-oliveira-cfa-03aa9752/" target="_blank">
+                                <h3>Caio de Oliveira</h3>
+                                <p>CARGO</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="palestrante">
                         <img src="<?= get_template_directory_uri() . '/assets/img/cezar.jpg' ?>" alt="Cezar Taurion" />
                         <div class="info">
                             <a href="https://www.linkedin.com/in/ctaurion/?originalSubdomain=br" target="_blank">
@@ -41,11 +50,83 @@
                         </div>
                     </div>
                     <div class="palestrante">
+                        <img src="<?= get_template_directory_uri() . '/assets/img/evandro-de-carvalho.jpg' ?>" alt="Evandro Menezes de Carvalho" />
+                        <div class="info">
+                            <a href="https://www.linkedin.com/in/evandro-m-de-carvalho-%E9%AB%98%E6%96%87%E5%8B%87-7a0367171/" target="_blank">
+                                <h3>Evandro Menezes de Carvalho</h3>
+                                <p>CARGO</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="palestrante">
+                        <img src="<?= get_template_directory_uri() . '/assets/img/fleury-johnson.jpg' ?>" alt="Fleury Johnson" />
+                        <div class="info">
+                            <a href="https://www.linkedin.com/in/fleury-johnson-md-64644ab0" target="_blank">
+                                <h3>Fleury Johnson</h3>
+                                <p>CARGO</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="palestrante">
+                        <img src="<?= get_template_directory_uri() . '/assets/img/gilson-rodrigues.jpg' ?>" alt="Gilson Rodrigues" />
+                        <div class="info">
+                            <a href="https://br.linkedin.com/in/gilson-rodrigues" target="_blank">
+                                <h3>Gilson Rodrigues</h3>
+                                <p>CARGO</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="palestrante">
+                        <img src="<?= get_template_directory_uri() . '/assets/img/jacqueline-goulart.jpg' ?>" alt="Jacqueline Goulart" />
+                        <div class="info">
+                            <a href="https://www.linkedin.com/in/jacqueline-da-silva-goulart" target="_blank">
+                                <h3>Jacqueline Goulart</h3>
+                                <p>CARGO</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="palestrante">
+                        <img src="<?= get_template_directory_uri() . '/assets/img/jose-roberto-goulart.jpg' ?>" alt="José Roberto Goulart" />
+                        <div class="info">
+                            <a href="https://www.linkedin.com/in/jos%C3%A9-roberto-goulart-33b69951" target="_blank">
+                                <h3>José Roberto Goulart</h3>
+                                <p>CARGO</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="palestrante">
+                        <img src="<?= get_template_directory_uri() . '/assets/img/marco-antonio-fujihara.jpg' ?>" alt="Marco Antônio Fujihara" />
+                        <div class="info">
+                            <a href="https://www.linkedin.com/in/marcoantoniofujihara/" target="_blank">
+                                <h3>Marco Antônio Fujihara</h3>
+                                <p>CARGO</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="palestrante">
+                        <img src="<?= get_template_directory_uri() . '/assets/img/nina-silva.jpg' ?>" alt="Nina Silva" />
+                        <div class="info">
+                            <a href="https://www.linkedin.com/in/marina-silva-profile" target="_blank">
+                                <h3>Nina Silva</h3>
+                                <p>CARGO</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="palestrante">
                         <img src="<?= get_template_directory_uri() . '/assets/img/pierri.jpg' ?>" alt="Pierre Lucena" />
                         <div class="info">
                             <a href="https://www.linkedin.com/in/pierrelucena/" target="_blank">
                                 <h3>Pierre Lucena</h3>
                                 <p> Diretor Presidente do Núcleo de Gestão do Porto Digital</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="palestrante">
+                        <img src="<?= get_template_directory_uri() . '/assets/img/zeina-latif.jpg' ?>" alt="Zeina Latif" />
+                        <div class="info">
+                            <a href="https://www.linkedin.com/in/zeina-latif-70929819/" target="_blank">
+                                <h3>Zeina Latif</h3>
+                                <p>CARGO</p>
                             </a>
                         </div>
                     </div>

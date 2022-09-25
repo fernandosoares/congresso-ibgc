@@ -58,7 +58,7 @@
                                     <div class="col-12 col-md-1 text-center fw-bold hour">10h40 às 11h20</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
-                                        Conselhos do futuro – O amanhã é agora<br>
+                                        O conselho do futuro é hoje – O tsunami já começou<br>
                                         <div class="fw-normal">David R. Beatty, presidente do Centro de Inovação em Governança Sharon &amp; David Johnston e professor de Estratégia na Escola de Administração Rotman (Universidade de Toronto)</div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
@@ -380,7 +380,7 @@
                                     <div class="col-12 col-md-1 text-center fw-bold hour">8h40 às 9h</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
-                                        Inspiração e estratégia de um povo originário<br>
+                                        Inspiração para manter a floresta em pé – Plano de 50 anos<br>
                                         <div class="fw-normal">
                                             Almir Narayamoga Surui, coordenador da Associação Metareilá do povo indígena Surui e cacique geral do povo Paiter Surui<br>
                                             Moderação: Sonia Consiglio, SDG Pioneer pelo Pacto Global da ONU
@@ -521,6 +521,7 @@
                                         <div class="mb-3 fw-normal">
                                             Ana Carolina Botto Audi, sócia de Demarest Advogados<br>
                                             Fabio Coelho, presidente executivo da Associação de investidores no Mercado de Capitais (Amec)<br>
+                                            Renato Chaves, PREVI, membro do comitê de auditoria<br>
                                             Moderação: Flavia Mouta, diretora de Emissores da B3
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
