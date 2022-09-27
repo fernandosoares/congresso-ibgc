@@ -27,7 +27,7 @@
                         <div class="info">
                             <a href="https://www.linkedin.com/in/caio-figueiredo-c-de-oliveira-cfa-03aa9752/" target="_blank">
                                 <h3>Caio de Oliveira</h3>
-                                <p>CARGO</p>
+                                <p>Gerente do programa em Governança Corporativa na América Latina na OCDE</p>
                             </a>
                         </div>
                     </div>
@@ -54,7 +54,7 @@
                         <div class="info">
                             <a href="https://www.linkedin.com/in/evandro-m-de-carvalho-%E9%AB%98%E6%96%87%E5%8B%87-7a0367171/" target="_blank">
                                 <h3>Evandro Menezes de Carvalho</h3>
-                                <p>CARGO</p>
+                                <p>Prof. de Direito Internacional e Coordenador do Núcleo de Estudos Brasil-China da FGV Direito Rio. Consultor de Galdino & Coelho Advogados</p>
                             </a>
                         </div>
                     </div>
@@ -63,7 +63,16 @@
                         <div class="info">
                             <a href="https://www.linkedin.com/in/fleury-johnson-md-64644ab0" target="_blank">
                                 <h3>Fleury Johnson</h3>
-                                <p>CARGO</p>
+                                <p>Head global de Saúde do Nubank</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="palestrante">
+                        <img src="<?= get_template_directory_uri() . '/assets/img/geyze-diniz.jpg' ?>" alt="Geyze Diniz" />
+                        <div class="info">
+                            <a onclick="javascript:void(0)">
+                                <h3>Geyze Diniz</h3>
+                                <p>Presidente da G10 Favelas</p>
                             </a>
                         </div>
                     </div>
@@ -72,7 +81,7 @@
                         <div class="info">
                             <a href="https://br.linkedin.com/in/gilson-rodrigues" target="_blank">
                                 <h3>Gilson Rodrigues</h3>
-                                <p>CARGO</p>
+                                <p>Presidente da G10 Favelas</p>
                             </a>
                         </div>
                     </div>
@@ -81,7 +90,7 @@
                         <div class="info">
                             <a href="https://www.linkedin.com/in/jacqueline-da-silva-goulart" target="_blank">
                                 <h3>Jacqueline Goulart</h3>
-                                <p>CARGO</p>
+                                <p>Advogada da Alibem Alimentos S.A.</p>
                             </a>
                         </div>
                     </div>
@@ -90,7 +99,7 @@
                         <div class="info">
                             <a href="https://www.linkedin.com/in/jos%C3%A9-roberto-goulart-33b69951" target="_blank">
                                 <h3>José Roberto Goulart</h3>
-                                <p>CARGO</p>
+                                <p>Diretor presidente da Alibem Alimentos S.A</p>
                             </a>
                         </div>
                     </div>
@@ -99,7 +108,7 @@
                         <div class="info">
                             <a href="https://www.linkedin.com/in/marcoantoniofujihara/" target="_blank">
                                 <h3>Marco Antônio Fujihara</h3>
-                                <p>CARGO</p>
+                                <p>Coordenador do Fórum Nacional de Mudanças Climáticas</p>
                             </a>
                         </div>
                     </div>
@@ -108,7 +117,7 @@
                         <div class="info">
                             <a href="https://www.linkedin.com/in/marina-silva-profile" target="_blank">
                                 <h3>Nina Silva</h3>
-                                <p>CARGO</p>
+                                <p>CEO do Movimento Black Money & D'Black Bank</p>
                             </a>
                         </div>
                     </div>
@@ -126,7 +135,7 @@
                         <div class="info">
                             <a href="https://www.linkedin.com/in/zeina-latif-70929819/" target="_blank">
                                 <h3>Zeina Latif</h3>
-                                <p>CARGO</p>
+                                <p>Secretária de Desenvolvimento Econômico do Governo de São Paulo</p>
                             </a>
                         </div>
                     </div>
