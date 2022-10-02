@@ -38,6 +38,9 @@
         <div class="row plus">
             <div class="col-12 text-center">
                 <h4>Plus</h4>
+                <img src="<?= get_template_directory_uri() . '/assets/img/plus-accountify.png' ?>" alt="ACCOUNTIFY" />
+                <img src="<?= get_template_directory_uri() . '/assets/img/plus-Blueshift.png' ?>" alt="BLUESHIFT" />
+                <img src="<?= get_template_directory_uri() . '/assets/img/plus-cielo.png' ?>" alt="CIELO" />
                 <img src="<?= get_template_directory_uri() . '/assets/img/plus-exec.png' ?>" alt="EXEC" />
                 <img src="<?= get_template_directory_uri() . '/assets/img/plus-flow.png' ?>" alt="FLOW" />
                 <img src="<?= get_template_directory_uri() . '/assets/img/plus-gm.png' ?>" alt="GM" />

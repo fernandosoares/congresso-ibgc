@@ -10,14 +10,92 @@
 
                 <div class="accordion" id="accordionExample">
 
-                    <!-- DIA 9 -->
+                    <!-- PRÉ CONGRESSO -->
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingOne">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                <p>09.11</p>
+                                <p>Pré-Congresso</p>
                             </button>
                         </h2>
                         <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <div class="row">
+                                    <div class="col-6 offset-6">
+                                        <div class="tipos d-flex align-items-center justify-content-end mb-5">
+                                            <p>Tipos de ingresso</p>
+                                            <div class="tipo text-center presencial d-flex align-items-center">Congresso<br>Presencial</div>
+                                            <div class="tipo text-center on d-flex align-items-center">Congresso<br>On-line</div>
+                                            <div class="tipo text-center encontros d-flex align-items-center">Congresso +<br>Encontro de<br>Conselheiros</div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row item align-items-center">
+                                    <div class="col-12 col-md-3 text-center fw-bold hour">25 de outubro | 9h às 10h30</div>
+                                    <div class="col-12 col-md-8 fw-bold">
+                                        <b>Investor Stewardship and Proxy Advisors: the Role of Independent Oversight</b><br>
+                                        <div class="fw-normal">Stephen Davis, Senior Fellow na Harvard Law School Program on Corporate Governance</div>
+                                    </div>
+                                    <div class="col-12 col-md-1 d-flex align-items-center">
+                                        <div class="check presencial"></div>
+                                        <div class="check on"></div>
+                                        <div class="check encontros"></div>
+                                    </div>
+                                </div>
+
+                                <div class="row item align-items-center">
+                                    <div class="col-12 col-md-3 text-center fw-bold hour">26 de outubro | 17h às 18h30</div>
+                                    <div class="col-12 col-md-8 fw-bold">
+                                        <div class="fw-normal">Michelle Holliday</div>
+                                    </div>
+                                    <div class="col-12 col-md-1 d-flex align-items-center">
+                                        <div class="check presencial"></div>
+                                        <div class="check on"></div>
+                                        <div class="check encontros"></div>
+                                    </div>
+                                </div>
+
+                                <div class="row item align-items-center">
+                                    <div class="col-12 col-md-3 text-center fw-bold hour">27 de outubro | 17h às 18h30</div>
+                                    <div class="col-12 col-md-8 fw-bold">
+                                        <div class="fw-normal"><em>(falaremos sobre a revisão do</em> Código das Melhores Práticas de Governança Corporativa<em>)</em></div>
+                                    </div>
+                                    <div class="col-12 col-md-1 d-flex align-items-center">
+                                        <div class="check presencial"></div>
+                                        <div class="check on"></div>
+                                        <div class="check encontros"></div>
+                                    </div>
+                                </div>
+
+                                <div class="row item align-items-center">
+                                    <div class="col-12 col-md-3 text-center fw-bold hour">28 de outubro | 8h30 às 10h</div>
+                                    <div class="col-12 col-md-8 fw-bold">
+                                        <div class="fw-normal"><em>(vamos falar sobre códigos de governança ao redor do mundo)</em></div>
+                                    </div>
+                                    <div class="col-12 col-md-1 d-flex align-items-center">
+                                        <div class="check presencial"></div>
+                                        <div class="check on"></div>
+                                        <div class="check encontros"></div>
+                                    </div>
+                                </div>
+
+                                <div class="row item align-items-center">
+                                    <div class="col-12 text-center">
+                                        Todas as sessões pré-Congresso serão on-line e transmitidas pela plataforma exclusiva do Congresso. O link será enviado aos inscritos.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- DIA 9 -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                                <p>09.11</p>
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
                                 <div class="row">
                                     <div class="col-6 offset-6">
@@ -72,7 +150,7 @@
                                     <div class="col-12 col-md-1 text-center fw-bold hour">11h20 às 11h50</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
-                                        Governança corporativa descentralizada nas empresas DAO (<em>Decentralized Autonomous Organization</em>)<br>
+                                        Governança corporativa descentralizada: o caso Buurtzorg no Brasil<br>
                                         <div class="fw-normal">
                                             Martha Oliveira, CEO Grupo Laços Saúde
                                         </div>
@@ -191,6 +269,7 @@
                                         </div>
 
                                         <div class="mb-3 fw-normal">
+                                            Vânia Neves, Chief Technology Officer (CTO)<br>
                                             Leticia Freitas Costa, sócia da SLP Consultoria<br>
                                             Moderação: Allan Costa, vice-presidente de Operações ISH Tecnologia
                                         </div>
@@ -274,7 +353,7 @@
                                 </div>
 
                                 <div class="row item align-items-center">
-                                    <div class="col-12 col-md-1 text-center fw-bold hour">17h10 às 17h50</div>
+                                    <div class="col-12 col-md-1 text-center fw-bold hour">17h10 às 17h55</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
                                         Governança e mercado de capitais: Como acelerar a inclusão e o acesso ao mercado<br>
@@ -293,7 +372,7 @@
                                 </div>
 
                                 <div class="row item align-items-center">
-                                    <div class="col-12 col-md-1 text-center fw-bold hour">17h50 às 18h35</div>
+                                    <div class="col-12 col-md-1 text-center fw-bold hour">17h55 às 18h35</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
                                         O impacto das novas tecnologias na governança corporativa – do <em>hype</em> à realidade<br>
@@ -337,12 +416,12 @@
 
                     <!-- DIA 10 -->
                     <div class="accordion-item">
-                        <h2 class="accordion-header" id="headingTwo">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        <h2 class="accordion-header" id="headingThree">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                 <p>10.11</p>
                             </button>
                         </h2>
-                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
 
                                 <div class="row">
@@ -463,7 +542,7 @@
                                         </div>
 
                                         <div class="mb-3 fw-normal">
-                                            Wilson Ferreira Junior, CEO da Eletrobrás<br>
+                                            Wilson Ferreira, presidente da Eletrobras<br>
                                             José G. Monforte, sócio da Emax Ltda<br>
                                             Moderação: Lucia Casasanta, conselheira de administração do Grupo Madero e da Santo Antônio Energia
                                         </div>
@@ -646,7 +725,8 @@
                                         [sessão plenária]<br>
                                         O Brasil a caminho da OCDE<br>
                                         <div class="fw-normal">
-                                            Caio de Oliveira, gerente do programa em Governança Corporativa na América Latina na OCDE
+                                            Caio de Oliveira, gerente do programa em Governança Corporativa na América Latina na OCDE<br>
+                                            Moderação: Fernando Torres, editor-executivo do Valor
                                         </div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">

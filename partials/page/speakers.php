@@ -69,11 +69,11 @@
                     </div>
                     <div class="palestrante">
                         <img src="<?= get_template_directory_uri() . '/assets/img/geyze-diniz.jpg' ?>" alt="Geyze Diniz" />
-                        <div class="info">
-                            <a onclick="javascript:void(0)">
+                        <div class="info no-icon">
+                            <div>
                                 <h3>Geyze Diniz</h3>
-                                <p>Presidente da G10 Favelas</p>
-                            </a>
+                                <p>Conselheira da Península Participações</p>
+                            </div>
                         </div>
                     </div>
                     <div class="palestrante">
