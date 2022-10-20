@@ -33,8 +33,8 @@
                                 <div class="row item align-items-center">
                                     <div class="col-12 col-md-3 text-center fw-bold hour">25 de outubro | 9h às 10h30</div>
                                     <div class="col-12 col-md-8 fw-bold">
-                                        <b>Investor Stewardship and Proxy Advisors: the Role of Independent Oversight</b><br>
-                                        <div class="fw-normal">Stephen Davis, Senior Fellow na Harvard Law School Program on Corporate Governance</div>
+                                        Investor Stewardship and Proxy Advisors: the Role of Independent Oversight<br>
+                                        <div class="fw-normal">Stephen Davis, Senior Fellow at Harvard Law School Program on Corporate Governance</div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
@@ -46,7 +46,8 @@
                                 <div class="row item align-items-center">
                                     <div class="col-12 col-md-3 text-center fw-bold hour">26 de outubro | 17h às 18h30</div>
                                     <div class="col-12 col-md-8 fw-bold">
-                                        <div class="fw-normal">Michelle Holliday</div>
+                                        Governance as Stewardship: An Integrated Approach to Thriving Organizations and a Thriving World<br>
+                                        <div class="fw-normal">Michelle Holliday, autora do livro 'The Age of Thrivability'</div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
@@ -58,7 +59,7 @@
                                 <div class="row item align-items-center">
                                     <div class="col-12 col-md-3 text-center fw-bold hour">27 de outubro | 17h às 18h30</div>
                                     <div class="col-12 col-md-8 fw-bold">
-                                        <div class="fw-normal"><em>(falaremos sobre a revisão do</em> Código das Melhores Práticas de Governança Corporativa<em>)</em></div>
+                                        <div class="fw-normal">Revisão do Código das Melhores Práticas de Governança Corporativa - O que esperar do novo código</div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
@@ -70,7 +71,7 @@
                                 <div class="row item align-items-center">
                                     <div class="col-12 col-md-3 text-center fw-bold hour">28 de outubro | 8h30 às 10h</div>
                                     <div class="col-12 col-md-8 fw-bold">
-                                        <div class="fw-normal"><em>(vamos falar sobre códigos de governança ao redor do mundo)</em></div>
+                                        <div class="fw-normal">Codes around the world</div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
@@ -81,7 +82,7 @@
 
                                 <div class="row item align-items-center">
                                     <div class="col-12 text-center">
-                                        Todas as sessões pré-Congresso serão on-line e transmitidas pela plataforma exclusiva do Congresso. O link será enviado aos inscritos.
+                                        Todas as sessões pré-Congresso serão on-line. O link será enviado por e-mail para os inscritos.
                                     </div>
                                 </div>
                             </div>
@@ -150,9 +151,9 @@
                                     <div class="col-12 col-md-1 text-center fw-bold hour">11h20 às 11h50</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
-                                        Governança corporativa descentralizada: o caso Buurtzorg no Brasil<br>
+                                        Reinventando as organizações: o caso Buurtzorg no Brasil<br>
                                         <div class="fw-normal">
-                                            Martha Oliveira, CEO Grupo Laços Saúde
+                                            Martha Oliveira, CEO do Grupo Laços Saúde
                                         </div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
@@ -269,7 +270,7 @@
                                         </div>
 
                                         <div class="mb-3 fw-normal">
-                                            Vânia Neves, Chief Technology Officer (CTO)<br>
+                                            Vânia Neves, Chief Technology Officer (CTO) na Vale<br>
                                             Leticia Freitas Costa, sócia da SLP Consultoria<br>
                                             Moderação: Allan Costa, vice-presidente de Operações ISH Tecnologia
                                         </div>
@@ -285,7 +286,8 @@
 
                                         <div class="mb-3 fw-normal">
                                             Evandro Menezes de Carvalho, professor de Direito Internacional e Coordenador do Núcleo de Estudos Brasil-China da FGV Direito (Rio de Janeiro). Consultor de Galdino & Coelho Advogados.<br>
-                                            Way Chien, CFO na Great Wall Motors Brasil
+                                            Way Chien, CFO na Great Wall Motors Brasil<br>
+                                            Moderação: Janaina Camara de Silveira, editora da plataforma Radar China
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
 
@@ -298,7 +300,7 @@
                                         </div>
 
                                         <div class="mb-3 fw-normal">
-                                            Rodrigo Bressan, professor adjunto livre docente do Laboratório Interdisciplinar de Neurociências Clínicas (LinC/Unifesp)<br>
+                                            Rodrigo Bressan, psiquiatra Professor da UNIFESP e King's College London. Presidente do Instituto AmeSuaMente<br>
                                             Fleury Johnson, Head Global de Saúde do Nubank<br>
                                             Moderação: Vicky Bloch, sócia diretora da Vicky Bloch Associados
                                         </div>
@@ -306,7 +308,7 @@
 
                                         <!-- ITEM SIMULTÂNEO -->
                                         <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0"><em>Startups</em>: Governança e captura de valor</p>
+                                            <p class="fw-bold mb-0"><em>Startups</em>: governança e captura de valor</p>
                                             <div class="check presencial"></div>
                                             <div class="check"></div>
                                             <div class="check encontros"></div>
@@ -315,7 +317,7 @@
                                         <div class="mb-3 fw-normal">
                                             Nina Silva, CEO do Movimento Black Money & D'Black Bank<br>
                                             Caetano Minchillo, gerente da unidade de Capitalização e Serviços Financeiros do Sebrae Nacional<br>
-                                            Moderação: Jose Kobori, sócio-diretor da JK Global Partners Consultoria e Assessoria Empresarial
+                                            Moderação: José Kobori, sócio-diretor da JK Global Partners Consultoria e Assessoria Empresarial
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
 
@@ -356,7 +358,7 @@
                                     <div class="col-12 col-md-1 text-center fw-bold hour">17h10 às 17h55</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
-                                        Governança e mercado de capitais: Como acelerar a inclusão e o acesso ao mercado<br>
+                                        Governança e mercado de capitais: como acelerar a inclusão e o acesso ao mercado<br>
                                         <div class="fw-normal">
                                             João Pedro Nascimento, presidente da Comissão de Valores Mobiliários (CVM)<br>
                                             Gilson Rodrigues, presidente da G10 Favelas<br>
@@ -388,9 +390,9 @@
                                 </div>
 
                                 <div class="row item align-items-center">
-                                    <div class="col-12 col-md-1 text-center fw-bold hour">18h35 às 18h45</div>
+                                    <div class="col-12 col-md-1 text-center fw-bold hour">18h45 às 19h15</div>
                                     <div class="col-12 col-md-10 fw-bold">
-                                        Encerramento
+                                        Lançamento do livro "Governança Climática no Brasil: Contexto e Desafios dos Conselhos de Administração"
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
@@ -400,7 +402,7 @@
                                 </div>
 
                                 <div class="row item align-items-center">
-                                    <div class="col-12 col-md-1 text-center fw-bold hour">18h45 às 19h45</div>
+                                    <div class="col-12 col-md-1 text-center fw-bold hour">19h15 às 20h</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         Coquetel
                                     </div>
@@ -476,9 +478,10 @@
                                     <div class="col-12 col-md-1 text-center fw-bold hour">9h às 9h45</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
-                                        Governança de <em>stakeholders</em>: Desenvolvimento sustentável de comunidades<br>
+                                        Governança de <em>stakeholders</em>: desenvolvimento sustentável de comunidades<br>
                                         <div class="fw-normal">
                                             Virgílio Viana, superintendente geral da Fundação Amazônia Sustentável<br>
+                                            Luiz Carlos Demattê Filho, CEO Korin Alimentos<br>
                                             Moderação: Naiara Bertão, editora do Valor Econômico/ Prática ESG
                                         </div>
                                     </div>
@@ -564,7 +567,7 @@
 
                                         <!-- ITEM SIMULTÂNEO -->
                                         <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0">Marcos regulatórios internacionais de sustentabilidade no mercado</p>
+                                            <p class="fw-bold mb-0">Impacto dos marcos regulatórios de sustentabilidade: Brasil e cenário Internacional</p>
                                             <div class="check presencial"></div>
                                             <div class="check"></div>
                                             <div class="check encontros"></div>
@@ -572,34 +575,39 @@
 
                                         <div class="mb-3 fw-normal">
                                             Kathleen Krause, chefe adjunta do departamento de Regulação Prudencial e Cambial do Banco Central do Brasil<br>
-                                            Marcello Brito, CEO da CBKK S.A
+                                            Marcello Brito, CEO da CBKK S.A<br>
+                                            Moderação: Gustavo Ferreira Ribeiro, coordenador de Acesso a Mercado na ApexBrasil
+                                        </div>
+                                        <!-- /ITEM SIMULTÂNEO -->
+
+                                        <!-- ITEM SIMULTÂNEO -->
+                                        <div class="titulo d-flex align-items-start">
+                                            <p class="fw-bold mb-0">
+                                                O futuro do reporte ESG: transparência e integração<br>
+                                                <em><small>sessão em inglês</small></em>
+                                            </p>
+                                            <div class="check presencial mt-1"></div>
+                                            <div class="check mt-1"></div>
+                                            <div class="check encontros mt-1"></div>
+                                        </div>
+
+                                        <div class="mb-3 fw-normal">
+                                            Marcelo Behar, VP de Sustentabilidade e Assuntos Corporativos na Natura &Co<br>
+                                            Moderação: Vania Borgerth, representante do IBGC no IRCC do ISSB e membro do CBPS
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
 
                                         <!-- ITEM SIMULTÂNEO -->
                                         <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0">O futuro do reporte ESG: transparência e integração</p>
+                                            <p class="fw-bold mb-0">SPAC: desafios e oportunidades no Brasil</p>
                                             <div class="check presencial"></div>
                                             <div class="check"></div>
                                             <div class="check encontros"></div>
                                         </div>
 
                                         <div class="mb-3 fw-normal">
-                                            <em>A confirmar</em>
-                                        </div>
-                                        <!-- /ITEM SIMULTÂNEO -->
-
-                                        <!-- ITEM SIMULTÂNEO -->
-                                        <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0">SPAC e governança: viabilidade no Brasil?</p>
-                                            <div class="check presencial"></div>
-                                            <div class="check"></div>
-                                            <div class="check encontros"></div>
-                                        </div>
-
-                                        <div class="mb-3 fw-normal">
-                                            Ana Carolina Botto Audi, sócia de Demarest Advogados<br>
-                                            Fabio Coelho, presidente executivo da Associação de investidores no Mercado de Capitais (Amec)<br>
+                                            Ana Carolina Botto Audi, sócia da Demarest Advogados<br>
+                                            Fabio Coelho, presidente executivo da Associação de Investidores no Mercado de Capitais (Amec)<br>
                                             Renato Chaves, PREVI, membro do comitê de auditoria<br>
                                             Moderação: Flavia Mouta, diretora de Emissores da B3
                                         </div>
@@ -612,10 +620,13 @@
                                     <div class="col-12 col-md-1 text-center fw-bold hour">12h às 14h</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [encontro de conselheiros]<br>
-                                        Independência do conselheiro: Como medir e em quanto tempo é perdida?<br>
+                                        Independência do conselheiro: como medir e em quanto tempo é perdida?<br>
                                         <div class="fw-normal">
                                             David R. Beatty, presidente do Centro de Inovação em Governança Sharon & David Johnston e professor de Estratégia na Escola de Administração Rotman (Universidade de Toronto)<br>
-                                            José Galló, presidente do conselho de administração da Lojas Renner
+                                            Cristiana Pipponzi, conselheira e líder do comitê de Estratégia e de Sustentabilidade<br>
+                                            Sylvia Leão, conselheira de Empresas<br>
+                                            José Galló, presidente do conselho de administração da Lojas Renner<br>
+                                            Moderação: Eliane Lustosa, conselheira independente na CCR e BrasilAgro
                                         </div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
@@ -742,7 +753,7 @@
                                         [sessão plenária]<br>
                                         Governança e os caminhos para o desenvolvimento econômico brasileiro<br>
                                         <div class="fw-normal">
-                                            Zeina Latif, secretária de Desenvolvimento Econômico do Governo de São Paulo
+                                            Zeina Latif, consultora econômica
                                         </div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">

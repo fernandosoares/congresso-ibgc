@@ -53,14 +53,18 @@
         </div>
         <div class="row parceiros">
             <div class="col-12 text-center">
-                <h4>Parceiros</h4>
+                <h4>Parceiro</h4>
                 <img src="<?= get_template_directory_uri() . '/assets/img/parceiro-chapter-zero.png' ?>" alt="Chapter Zero" />
             </div>
         </div>
         <div class="row parceiro-midia">
             <div class="col-12 text-center">
-                <h4>Parceiros de mídia</h4>
+                <h4>Apoiadores</h4>
+                <img src="<?= get_template_directory_uri() . '/assets/img/apoiadores-akatu.png' ?>" alt="AKATU" />
+                <img src="<?= get_template_directory_uri() . '/assets/img/apoiadores-anbima.png' ?>" alt="ANBIMA" />
+                <img src="<?= get_template_directory_uri() . '/assets/img/apoiadores-ibracon.png' ?>" alt="IBRACON" />
                 <img src="<?= get_template_directory_uri() . '/assets/img/parceiro-midia-ri.png' ?>" alt="RI" />
+                <img src="<?= get_template_directory_uri() . '/assets/img/apoiadores-WCD.png' ?>" alt="WCD" />
             </div>
         </div>
     </div>

@@ -87,12 +87,14 @@
 }
 
 #patrocinadores .parceiro-midia,
-#patrocinadores .parceiros {
+#patrocinadores .parceiros,
+#patrocinadores .apoiadores {
     border-top: solid 2px #fff;
 }
 
 #patrocinadores .parceiro-midia h4,
-#patrocinadores .parceiros h4 {
+#patrocinadores .parceiros h4,
+#patrocinadores .apoiadores h4 {
     border: 2px solid #fff;
     border-top-color: #05030f;
     border-bottom-color: #05030f;
