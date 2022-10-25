@@ -1,0 +1,15 @@
+.close-modal {
+    position: absolute;
+    right: 0;
+    right: 55px;
+    z-index: 1;
+    top: 20px;
+    background-color: #fff;
+}
+
+.modal-content {
+    background-color: transparent;
+    outline: none !important;
+    box-shadow: none;
+    border: none;
+}
