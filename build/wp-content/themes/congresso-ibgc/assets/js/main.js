@@ -20,4 +20,14 @@ jQuery(document).ready(function () {
     jQuery('.navbar-nav>li>a').on('click', function () {
         jQuery('.navbar-collapse').collapse('hide');
     });
+
+    var currentDate = new Date().toJSON();
+    var from = new Date('2022/10/25 00:00:00');
+    var to = new Date('2022/10/28 23:59:59');
+    var check = new Date(currentDate);
+
+    if (check > from && check < to) {
+        jQuery('#modal').modal('show');
+    }
+
 })

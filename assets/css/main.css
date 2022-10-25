@@ -5,6 +5,7 @@
 @import './common/app.css';
 
 /* SITE MODULES */
+@import './modules/modal.css';
 @import './modules/nav.css';
 @import './modules/hero.css';
 @import './modules/video.css';

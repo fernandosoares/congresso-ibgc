@@ -220,7 +220,7 @@
                                     <div class="col-12 col-md-1 text-center fw-bold hour">14h30 às 14h55</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
-                                        Cultura e propósito: A necessária transformação das organizações<br>
+                                        Cultura e propósito: a necessária transformação das organizações<br>
                                         <div class="fw-normal">
                                             Carolyn Taylor, fundadora e presidente executiva da Walking the Talk
                                         </div>
@@ -338,7 +338,7 @@
 
                                         <!-- ITEM SIMULTÂNEO -->
                                         <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0">IA: O futuro do processo decisório</p>
+                                            <p class="fw-bold mb-0">IA: o futuro do processo decisório</p>
                                             <div class="check presencial"></div>
                                             <div class="check"></div>
                                             <div class="check encontros"></div>

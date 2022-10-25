@@ -4,6 +4,7 @@
 
 <body <?php body_class(); ?>>
 
+    <?php require_once 'partials/page/modal.php'; ?>
     <?php require_once 'partials/page/nav.php'; ?>
     <?php require_once 'partials/page/hero.php'; ?>
     <?php require_once 'partials/page/speakers.php'; ?>
