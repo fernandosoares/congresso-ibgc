@@ -5,6 +5,7 @@
 @import '/wp-content/themes/congresso-ibgc/assets/css/common/app.css';
 
 /* SITE MODULES */
+@import '/wp-content/themes/congresso-ibgc/assets/css/modules/modal.css';
 @import '/wp-content/themes/congresso-ibgc/assets/css/modules/nav.css';
 @import '/wp-content/themes/congresso-ibgc/assets/css/modules/hero.css';
 @import '/wp-content/themes/congresso-ibgc/assets/css/modules/video.css';
