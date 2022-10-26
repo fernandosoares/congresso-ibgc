@@ -13,7 +13,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="palestrante">
+                    <!-- <div class="palestrante">
                         <img src="<?= get_template_directory_uri() . '/assets/img/ana-cristina.jpg' ?>" alt="Ana Cristina Cabral Gardner" />
                         <div class="info">
                             <a href="https://www.linkedin.com/in/anaccabral/" target="_blank">
@@ -21,7 +21,7 @@
                                 <p>Co-Chief Executive Officer (Co-CEO) e Co-Chairperson na Sigma Lithium, Co-founder e Managing Partner na A10 Invest</p>
                             </a>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="palestrante">
                         <img src="<?= get_template_directory_uri() . '/assets/img/caio-de-oliveira.jpg' ?>" alt="Caio de Oliveira" />
                         <div class="info">
