@@ -50,7 +50,10 @@
                                     <div class="col-12 col-md-3 text-center fw-bold hour">26 de outubro | 17h às 18h30</div>
                                     <div class="col-12 col-md-8 fw-bold">
                                         Governance as Stewardship: An Integrated Approach to Thriving Organizations and a Thriving World<br>
-                                        <div class="fw-normal">Michelle Holliday, autora do livro 'The Age of Thrivability'</div>
+                                        <div class="fw-normal">
+                                            Michelle Holliday, autora do livro 'The Age of Thrivability'<br>
+                                            Apresentação: Gabriela Blanchet, sócia fundadora do Blanchet Advogados
+                                        </div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
@@ -110,7 +113,7 @@
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingTwo">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                                <p>09.11</p>
+                                <p>9 de novembro*</p>
                             </button>
                         </h2>
                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
@@ -184,8 +187,11 @@
                                     <div class="col-12 col-md-1 text-center fw-bold hour">12h às 13h</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [encontro de conselheiros]<br>
-                                        ESG – Responsabilização dos conselheiros<br>
-                                        <div class="fw-normal"><em>A confirmar</em></div>
+                                        ESG - Responsabilização dos conselheiros<br>
+                                        <div class="fw-normal">
+                                            Richard Blanchet, sócio sênior do Blanchet Advogados<br>
+                                            Moderação: Lina Pimentel, sócia do Mattos Filho Advogados
+                                        </div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check"></div>
@@ -199,7 +205,10 @@
                                     <div class="col-12 col-md-10 fw-bold">
                                         [encontro de conselheiros]<br>
                                         ESG – Casos práticos de responsabilização dos conselheiros<br>
-                                        <div class="fw-normal"><em>A confirmar</em></div>
+                                        <div class="fw-normal">
+                                            Richard Blanchet, sócio sênior do Blanchet Advogados<br>
+                                            Lina Pimentel, sócia do Mattos Filho Advogados
+                                        </div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check"></div>
@@ -449,7 +458,7 @@
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingThree">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                <p>10.11</p>
+                                <p>10 de novembro*</p>
                             </button>
                         </h2>
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
@@ -755,7 +764,7 @@
 
                                         <!-- ITEM SIMULTÂNEO -->
                                         <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0">Relacionamento e engajamento com investidores e stakeholders</p>
+                                            <p class="fw-bold mb-0">Relacionamento e engajamento com investidores e <em>stakeholders</em></p>
                                             <div class="check presencial"></div>
                                             <div class="check"></div>
                                             <div class="check encontros"></div>
