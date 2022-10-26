@@ -34,7 +34,10 @@
                                     <div class="col-12 col-md-3 text-center fw-bold hour">25 de outubro | 9h às 10h30</div>
                                     <div class="col-12 col-md-8 fw-bold">
                                         Investor Stewardship and Proxy Advisors: the Role of Independent Oversight<br>
-                                        <div class="fw-normal">Stephen Davis, Senior Fellow at Harvard Law School Program on Corporate Governance</div>
+                                        <div class="fw-normal">
+                                            Stephen Davis, Senior Fellow at Harvard Law School Program on Corporate Governance<br>
+                                            Moderação: Daniela da Costa-Bulthuis, gestora para mercados emergentes de fundos alinhados com os ODS (Objetivos de Desenvolvimento Sustentável) da Robeco Asset Management
+                                        </div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
@@ -47,7 +50,10 @@
                                     <div class="col-12 col-md-3 text-center fw-bold hour">26 de outubro | 17h às 18h30</div>
                                     <div class="col-12 col-md-8 fw-bold">
                                         Governance as Stewardship: An Integrated Approach to Thriving Organizations and a Thriving World<br>
-                                        <div class="fw-normal">Michelle Holliday, autora do livro 'The Age of Thrivability'</div>
+                                        <div class="fw-normal">
+                                            Michelle Holliday, autora do livro 'The Age of Thrivability'<br>
+                                            Apresentação: Gabriela Blanchet, sócia fundadora do Blanchet Advogados
+                                        </div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
@@ -59,7 +65,15 @@
                                 <div class="row item align-items-center">
                                     <div class="col-12 col-md-3 text-center fw-bold hour">27 de outubro | 17h às 18h30</div>
                                     <div class="col-12 col-md-8 fw-bold">
-                                        <div class="fw-normal">Revisão do Código das Melhores Práticas de Governança Corporativa - O que esperar do novo código</div>
+                                        Revisão do Código das Melhores Práticas de Governança Corporativa - O que esperar do novo código?
+                                        <div class="fw-normal">
+                                            Claudia Pitta, sócia da Evolure Consultoria<br>
+                                            Geraldo Affonso Ferreira, conselheiro independente<br>
+                                            Maria Elena Cardoso Figueira, sócia da Figueira Consultoria Econômica e membro independente em comitês de auditoria e riscos e conselhos fiscais.<br>
+                                            Patrícia Pellini, sócia da White Box Consultoria e conselheira certificada pelo IBGC<br>
+                                            Vania Borgerth, representante do IBGC no IRCC do ISSB e membro do CBPS<br>
+                                            Moderação: Cristiana Pereira, conselheira e sócia ACE Governance
+                                        </div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
@@ -71,7 +85,13 @@
                                 <div class="row item align-items-center">
                                     <div class="col-12 col-md-3 text-center fw-bold hour">28 de outubro | 8h30 às 10h</div>
                                     <div class="col-12 col-md-8 fw-bold">
-                                        <div class="fw-normal">Codes around the world</div>
+                                        Codes around the world
+                                        <div class="fw-normal">
+                                            Chris Pierce, PhD, CEO of Global Governance Services<br>
+                                            Tobias Coutinho Parente, professor na Escola Superior de Engenharia e Gestão (ESEG)<br>
+                                            Marina Gama, professora e pesquisadora na FGV-EAESP<br>
+                                            Moderação: Marta Viegas, chefe de Governança Corporativa, BID Invest (Banco Interamericano de Desenvolvimento)
+                                        </div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
@@ -93,7 +113,7 @@
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingTwo">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                                <p>09.11</p>
+                                <p>9 de novembro*</p>
                             </button>
                         </h2>
                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
@@ -167,8 +187,11 @@
                                     <div class="col-12 col-md-1 text-center fw-bold hour">12h às 13h</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [encontro de conselheiros]<br>
-                                        ESG – Responsabilização dos conselheiros<br>
-                                        <div class="fw-normal"><em>A confirmar</em></div>
+                                        ESG - Responsabilização dos conselheiros<br>
+                                        <div class="fw-normal">
+                                            Richard Blanchet, sócio sênior do Blanchet Advogados<br>
+                                            Moderação: Lina Pimentel, sócia do Mattos Filho Advogados
+                                        </div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check"></div>
@@ -182,7 +205,10 @@
                                     <div class="col-12 col-md-10 fw-bold">
                                         [encontro de conselheiros]<br>
                                         ESG – Casos práticos de responsabilização dos conselheiros<br>
-                                        <div class="fw-normal"><em>A confirmar</em></div>
+                                        <div class="fw-normal">
+                                            Richard Blanchet, sócio sênior do Blanchet Advogados<br>
+                                            Lina Pimentel, sócia do Mattos Filho Advogados
+                                        </div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check"></div>
@@ -377,10 +403,22 @@
                                     <div class="col-12 col-md-1 text-center fw-bold hour">17h55 às 18h35</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
-                                        O impacto das novas tecnologias na governança corporativa – do <em>hype</em> à realidade<br>
+                                        O impacto das novas tecnologias na governança corporativa - do <em>hype</em> à realidade<br>
                                         <div class="fw-normal">
                                             Cezar Taurion, consultor, investidor e mentor de startups e membro do conselho de inovação de diversas empresas.
                                         </div>
+                                    </div>
+                                    <div class="col-12 col-md-1 d-flex align-items-center">
+                                        <div class="check presencial"></div>
+                                        <div class="check on"></div>
+                                        <div class="check encontros"></div>
+                                    </div>
+                                </div>
+
+                                <div class="row item align-items-center">
+                                    <div class="col-12 col-md-1 text-center fw-bold hour">18h35 às 18h45</div>
+                                    <div class="col-12 col-md-10 fw-bold">
+                                        Encerramento
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
                                         <div class="check presencial"></div>
@@ -420,7 +458,7 @@
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingThree">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                <p>10.11</p>
+                                <p>10 de novembro*</p>
                             </button>
                         </h2>
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
@@ -498,7 +536,6 @@
                                         [sessão plenária]<br>
                                         Transição para práticas sustentáveis: mineração, óleo e gás<br>
                                         <div class="fw-normal">
-                                            Ana Cabral-Gardner, Co-Chief Executive Officer e Co-Chairperson na Sigma Lithium e Co-founder & Managing Partner na A10 Invest<br>
                                             Luiz Carvalho, diretor de Research e analista sênior dos setores de óleo e gás e agronegócio na UBS BB Investment Bank<br>
                                             Moderação: Tatiana Assali, diretora de Programas em Finanças Sustentáveis da NINT
                                         </div>
@@ -561,6 +598,7 @@
 
                                         <div class="mb-3 fw-normal">
                                             Dan Yamamura, fundador da Fuse Capital<br>
+                                            Ray Nasser, CEO da Arthur Mining<br>
                                             Moderação: Mariana Assis, diretora de Customer Success, América Latina na Reality Labs from Meta
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
@@ -593,6 +631,7 @@
 
                                         <div class="mb-3 fw-normal">
                                             Marcelo Behar, VP de Sustentabilidade e Assuntos Corporativos na Natura &Co<br>
+                                            Verity Chegar, member of International Sustainability Standards Board, IFRS Foundation<br>
                                             Moderação: Vania Borgerth, representante do IBGC no IRCC do ISSB e membro do CBPS
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
@@ -664,59 +703,92 @@
                                 <div class="row item align-items-center">
                                     <div class="col-12 col-md-1 text-center fw-bold hour">14h30 às 16h</div>
                                     <div class="col-12 col-md-11 fw-bold">
-                                        Painéis simultâneos<br><br>
+                                        Painéis simultâneos - Revisão do Código das Melhores Práticas de Governança Corporativa<br><br>
 
                                         <!-- ITEM SIMULTÂNEO -->
                                         <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0">Sala de discussão 1 – Revisão do <em>Código das Melhores Práticas de Governança Corporativa</em></p>
+                                            <p class="fw-bold mb-0">Ética como fundamento da Governança. Propósito, Princípios da Governança Corporativa e sua definição</p>
                                             <div class="check presencial"></div>
                                             <div class="check"></div>
                                             <div class="check encontros"></div>
+                                        </div>
+
+                                        <div class="mb-3 fw-normal">
+                                            Moderação: Claudia Pitta, sócia da Evolure Consultoria<br>
+                                            Moderação: Sérgio Mindlin<br>
+                                            Moderação: Marilza Benevides
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
 
                                         <!-- ITEM SIMULTÂNEO -->
                                         <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0">Sala de discussão 2 – Revisão do <em>Código das Melhores Práticas de Governança Corporativa</em></p>
+                                            <p class="fw-bold mb-0">Conflito de Interesse</p>
                                             <div class="check presencial"></div>
                                             <div class="check"></div>
                                             <div class="check encontros"></div>
+                                        </div>
+
+                                        <div class="mb-3 fw-normal">
+                                            Moderação: Patrícia Pellini<br>
+                                            Moderação: Artur Neves
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
 
                                         <!-- ITEM SIMULTÂNEO -->
                                         <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0">Sala de discussão 3 – Revisão do <em>Código das Melhores Práticas de Governança Corporativa</em></p>
+                                            <p class="fw-bold mb-0">Composição do Conselho de Administração</p>
                                             <div class="check presencial"></div>
                                             <div class="check"></div>
                                             <div class="check encontros"></div>
+                                        </div>
+
+                                        <div class="mb-3 fw-normal">
+                                            Moderação: Geraldo Affonso Ferreira, conselheiro independente<br>
+                                            Moderação: Paulo Vasconcellos
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
 
                                         <!-- ITEM SIMULTÂNEO -->
                                         <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0">Sala de discussão 4 – Revisão do <em>Código das Melhores Práticas de Governança Corporativa</em></p>
+                                            <p class="fw-bold mb-0">Desafios da implementação da Governança. A constituição do Conselho Consultivo e Diretoria atuando como órgão colegiado nas organizações</p>
                                             <div class="check presencial"></div>
                                             <div class="check"></div>
                                             <div class="check encontros"></div>
+                                        </div>
+
+                                        <div class="mb-3 fw-normal">
+                                            Moderação: Leticia Reichert<br>
+                                            Moderação: Richard Doern
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
 
                                         <!-- ITEM SIMULTÂNEO -->
                                         <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0">Sala de discussão 5 – Revisão do <em>Código das Melhores Práticas de Governança Corporativa</em></p>
+                                            <p class="fw-bold mb-0">Relacionamento e engajamento com investidores e <em>stakeholders</em></p>
                                             <div class="check presencial"></div>
                                             <div class="check"></div>
                                             <div class="check encontros"></div>
+                                        </div>
+
+                                        <div class="mb-3 fw-normal">
+                                            Moderação: Pedro Rudge<br>
+                                            Moderação: Fernando Motta<br>
+                                            Moderação: Tiago Isaac
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
 
                                         <!-- ITEM SIMULTÂNEO -->
                                         <div class="titulo d-flex align-items-center">
-                                            <p class="fw-bold mb-0">Sala de discussão 6 – <em>Revisão do Código das Melhores Práticas de Governança Corporativa</em></p>
+                                            <p class="fw-bold mb-0">Incorporação dos temas Ambientais e Sociais no Código das Melhores Práticas de Governança Corporativa</p>
                                             <div class="check presencial"></div>
                                             <div class="check"></div>
                                             <div class="check encontros"></div>
+                                        </div>
+
+                                        <div class="mb-3 fw-normal">
+                                            Moderação: João Camargo<br>
+                                            Moderação: Mercedes Stinco<br>
+                                            Moderação: Flávia Lafraia
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
 

@@ -48,6 +48,7 @@
                 <img src="<?= get_template_directory_uri() . '/assets/img/plus-flow.png' ?>" alt="FLOW" />
                 <img src="<?= get_template_directory_uri() . '/assets/img/plus-gm.png' ?>" alt="GM" />
                 <img src="<?= get_template_directory_uri() . '/assets/img/Plus-Itausa.png' ?>" alt="ITAUSA" />
+                <img src="<?= get_template_directory_uri() . '/assets/img/plus-mz-nasdaq.png' ?>" alt="MZ NASDAQ" />
                 <img src="<?= get_template_directory_uri() . '/assets/img/plus-newU.png' ?>" alt="MZ" />
             </div>
         </div>
