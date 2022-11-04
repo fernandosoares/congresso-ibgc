@@ -108,6 +108,7 @@
                             </div>
                         </div>
                     </div>
+                    <!-- / PRÉ CONGRESSO -->
 
                     <!-- DIA 9 -->
                     <div class="accordion-item">
@@ -204,7 +205,7 @@
                                     <div class="col-12 col-md-1 text-center fw-bold hour">13h às 14h</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [encontro de conselheiros]<br>
-                                        ESG – Casos práticos de responsabilização dos conselheiros<br>
+                                        ESG - Casos práticos de responsabilização dos conselheiros<br>
                                         <div class="fw-normal">
                                             Richard Blanchet, sócio sênior do Blanchet Advogados<br>
                                             Lina Pimentel, sócia do Mattos Filho Advogados
@@ -219,14 +220,130 @@
 
                                 <div class="row item align-items-center">
                                     <div class="col-12 col-md-1 text-center fw-bold hour">12h às 14h</div>
-                                    <div class="col-12 col-md-10 fw-bold">
-                                        <em>Working lunch</em> e <em>Masterclass</em>
+                                    <div class="col-12 col-md-11">
+                                        <p><em>Working lunch</em> e <em>Masterclass</em><br></p>
+
+                                        <!-- CLASS -->
+                                        <div class="class mb-2">
+                                            <div class="fw-normal d-flex align-items-start">
+                                                <div class="class fw-bold">
+                                                    Masterclass AWS
+                                                </div>
+                                                <div class="col-12 col-md-1 d-flex align-items-center ms-3">
+                                                    <div class="check presencial"></div>
+                                                    <div class="check"></div>
+                                                    <div class="check"></div>
+                                                </div>
+                                            </div>
+                                            <div class="desc">
+                                                Cultura de Inovação na Amazon
+                                            </div>
+                                        </div>
+                                        <!-- / CLASS -->
+
+                                        <!-- CLASS -->
+                                        <div class="class mb-2">
+                                            <div class="fw-normal d-flex align-items-start">
+                                                <div class="class fw-bold">
+                                                    Masterclass B3
+                                                </div>
+                                                <div class="col-12 col-md-1 d-flex align-items-center ms-3">
+                                                    <div class="check presencial"></div>
+                                                    <div class="check"></div>
+                                                    <div class="check"></div>
+                                                </div>
+                                            </div>
+                                            <div class="desc">
+                                                A regulamentação acelerando a diversidade nas empresas: uma discussão sobre as novas regras da CVM e B3
+                                            </div>
+                                        </div>
+                                        <!-- / CLASS -->
+
+                                        <!-- CLASS -->
+                                        <div class="class mb-2">
+                                            <div class="fw-normal d-flex align-items-start">
+                                                <div class="class fw-bold">
+                                                    Masterclass Cambridge
+                                                </div>
+                                                <div class="col-12 col-md-1 d-flex align-items-center ms-3">
+                                                    <div class="check presencial"></div>
+                                                    <div class="check"></div>
+                                                    <div class="check"></div>
+                                                </div>
+                                            </div>
+                                            <div class="desc">
+                                                Estratégia de Acionistas na Família Empresária<br>
+                                                Gustavo Gonzaga, Consultor Sênior e Sócio da Cambridge Family Enterprise Group
+                                            </div>
+                                        </div>
+                                        <!-- / CLASS -->
+
+                                        <!-- CLASS -->
+                                        <div class="class mb-2">
+                                            <div class="fw-normal d-flex align-items-start">
+                                                <div class="class fw-bold">
+                                                    Masterclass Diligent
+                                                </div>
+                                                <div class="col-12 col-md-1 d-flex align-items-center ms-3">
+                                                    <div class="check presencial"></div>
+                                                    <div class="check"></div>
+                                                    <div class="check"></div>
+                                                </div>
+                                            </div>
+                                            <div class="desc">
+                                                Sustentabilidade: o que conselheiros(as) precisam saber sobre supervisão e estratégia ESG<br>
+                                                Daniela Manole, Conselheira, certificada CCA. Instrutora certificada GRI e IFRS. CEO & Fundadora Bridge3 Governança & ESG<br>
+                                                Rachel Maia, fundadora e CEO da RMConsulting<br>
+                                                Carlos Loureiro, Diretor Regional na Diligent<br>
+                                                Moderação: Ricardo Moreno - Vice-presidente sênior de parcerias mundiais e CRO para a América Latina na Diligent
+                                            </div>
+                                        </div>
+                                        <!-- / CLASS -->
+
+                                        <!-- CLASS -->
+                                        <div class="class mb-2">
+                                            <div class="fw-normal d-flex align-items-start">
+                                                <div class="class fw-bold">
+                                                    Masterclass KPMG
+                                                </div>
+                                                <div class="col-12 col-md-1 d-flex align-items-center ms-3">
+                                                    <div class="check presencial"></div>
+                                                    <div class="check"></div>
+                                                    <div class="check"></div>
+                                                </div>
+                                            </div>
+                                            <div class="desc">
+                                                O conselheiro da transição: de novos riscos à transformação digital<br>
+                                                Oliver Cunningham, Sócio de Inovação e Transformação da KPMG no Brasil e Co-founder da Leap<br>
+                                                Thammy Marcato, Sócia-diretora de Inovação e Transformação da KPMG no Brasil e Co-founder da Leap<br>
+                                                André Coutinho, Sócio-líder de Advisory da KPMG no Brasil e na América do Sul<br>
+                                            </div>
+                                        </div>
+                                        <!-- / CLASS -->
+
+                                        <!-- CLASS -->
+                                        <div class="class mb-2">
+                                            <div class="fw-normal d-flex align-items-start">
+                                                <div class="class fw-bold">
+                                                    Masterclass Vale
+                                                </div>
+                                                <div class="col-12 col-md-1 d-flex align-items-center ms-3">
+                                                    <div class="check presencial"></div>
+                                                    <div class="check"></div>
+                                                    <div class="check"></div>
+                                                </div>
+                                            </div>
+                                            <div class="desc">
+                                                Desafios e oportunidades na jornada de descarbonização das empresas<br>
+                                                Ana Cabral, Co-fundadora da A10 Investimentos e Co-CEO da Sigma Lithium<br>
+                                                Flavio Rodrigues, Vice Presidente de Relações Corporativas da Shell<br>
+                                                Rodrigo Lauria, Gerente Executivo de Mudanças Climáticas e Sustentabilidade Corporativa da Vale
+                                            </div>
+                                        </div>
+                                        <!-- / CLASS -->
+
                                     </div>
-                                    <div class="col-12 col-md-1 d-flex align-items-center">
-                                        <div class="check presencial"></div>
-                                        <div class="check"></div>
-                                        <div class="check"></div>
-                                    </div>
+
                                 </div>
 
                                 <div class="row item align-items-center">
@@ -453,6 +570,7 @@
                             </div>
                         </div>
                     </div>
+                    <!-- / DIA 9 -->
 
                     <!-- DIA 10 -->
                     <div class="accordion-item">
@@ -677,13 +795,106 @@
 
                                 <div class="row item align-items-center">
                                     <div class="col-12 col-md-1 text-center fw-bold hour">12h às 14h</div>
-                                    <div class="col-12 col-md-10 fw-bold">
-                                        <em>Working lunch</em> e <em>Masterclass</em>
-                                    </div>
-                                    <div class="col-12 col-md-1 d-flex align-items-center">
-                                        <div class="check presencial"></div>
-                                        <div class="check"></div>
-                                        <div class="check"></div>
+                                    <div class="col-12 col-md-11">
+                                        <p><em>Working lunch</em> e <em>Masterclass</em><br></p>
+
+                                        <!-- CLASS -->
+                                        <div class="class mb-2">
+                                            <div class="fw-normal d-flex align-items-start">
+                                                <div class="class fw-bold">
+                                                    Masterclass AWS
+                                                </div>
+                                                <div class="col-12 col-md-1 d-flex align-items-center ms-3">
+                                                    <div class="check presencial"></div>
+                                                    <div class="check"></div>
+                                                    <div class="check"></div>
+                                                </div>
+                                            </div>
+                                            <div class="desc">
+                                                Cultura de Inovação na Amazon
+                                            </div>
+                                        </div>
+                                        <!-- / CLASS -->
+
+                                        <!-- CLASS -->
+                                        <div class="class mb-2">
+                                            <div class="fw-normal d-flex align-items-start">
+                                                <div class="class fw-bold">
+                                                    Masterclass B3
+                                                </div>
+                                                <div class="col-12 col-md-1 d-flex align-items-center ms-3">
+                                                    <div class="check presencial"></div>
+                                                    <div class="check"></div>
+                                                    <div class="check"></div>
+                                                </div>
+                                            </div>
+                                            <div class="desc">
+                                                A regulamentação acelerando a diversidade nas empresas: uma discussão sobre as novas regras da CVM e B3
+                                            </div>
+                                        </div>
+                                        <!-- / CLASS -->
+
+                                        <!-- CLASS -->
+                                        <div class="class mb-2">
+                                            <div class="fw-normal d-flex align-items-start">
+                                                <div class="class fw-bold">
+                                                    Masterclass Cambridge
+                                                </div>
+                                                <div class="col-12 col-md-1 d-flex align-items-center ms-3">
+                                                    <div class="check presencial"></div>
+                                                    <div class="check"></div>
+                                                    <div class="check"></div>
+                                                </div>
+                                            </div>
+                                            <div class="desc">
+                                                Estratégia de Acionistas na Família Empresária<br>
+                                                Gustavo Gonzaga, Consultor Sênior e Sócio da Cambridge Family Enterprise Group
+                                            </div>
+                                        </div>
+                                        <!-- / CLASS -->
+
+                                        <!-- CLASS -->
+                                        <div class="class mb-2">
+                                            <div class="fw-normal d-flex align-items-start">
+                                                <div class="class fw-bold">
+                                                    Masterclass Diligent
+                                                </div>
+                                                <div class="col-12 col-md-1 d-flex align-items-center ms-3">
+                                                    <div class="check presencial"></div>
+                                                    <div class="check"></div>
+                                                    <div class="check"></div>
+                                                </div>
+                                            </div>
+                                            <div class="desc">
+                                                Sustentabilidade: o que conselheiros(as) precisam saber sobre supervisão e estratégia ESG<br>
+                                                Daniela Manole, Conselheira, certificada CCA. Instrutora certificada GRI e IFRS. CEO & Fundadora Bridge3 Governança & ESG<br>
+                                                Rachel Maia, fundadora e CEO da RMConsulting<br>
+                                                Carlos Loureiro, Diretor Regional na Diligent<br>
+                                                Moderação: Ricardo Moreno - Vice-presidente sênior de parcerias mundiais e CRO para a América Latina na Diligent
+                                            </div>
+                                        </div>
+                                        <!-- / CLASS -->
+
+                                        <!-- CLASS -->
+                                        <div class="class mb-2">
+                                            <div class="fw-normal d-flex align-items-start">
+                                                <div class="class fw-bold">
+                                                    Masterclass KPMG
+                                                </div>
+                                                <div class="col-12 col-md-1 d-flex align-items-center ms-3">
+                                                    <div class="check presencial"></div>
+                                                    <div class="check"></div>
+                                                    <div class="check"></div>
+                                                </div>
+                                            </div>
+                                            <div class="desc">
+                                                O conselheiro da transição: de novos riscos à transformação digital<br>
+                                                Oliver Cunningham, Sócio de Inovação e Transformação da KPMG no Brasil e Co-founder da Leap<br>
+                                                Thammy Marcato, Sócia-diretora de Inovação e Transformação da KPMG no Brasil e Co-founder da Leap<br>
+                                                André Coutinho, Sócio-líder de Advisory da KPMG no Brasil e na América do Sul<br>
+                                            </div>
+                                        </div>
+                                        <!-- / CLASS -->
                                     </div>
                                 </div>
 
@@ -857,6 +1068,65 @@
 
                         </div>
                     </div>
+                    <!-- / DIA 10 -->
+
+                    <!-- PÓS CONGRESSO -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingPos">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePos" aria-expanded="true" aria-controls="collapsePos">
+                                <p>Sessões Online Pós-Congresso*</p>
+                            </button>
+                        </h2>
+                        <div id="collapsePos" class="accordion-collapse collapse" aria-labelledby="headingPos" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <div class="row">
+                                    <div class="col-6 offset-6">
+                                        <div class="tipos d-flex align-items-center justify-content-end mb-5">
+                                            <p>Tipos de ingresso</p>
+                                            <div class="tipo text-center presencial d-flex align-items-center">Congresso<br>Presencial</div>
+                                            <div class="tipo text-center on d-flex align-items-center">Congresso<br>On-line</div>
+                                            <div class="tipo text-center encontros d-flex align-items-center">Congresso +<br>Encontro de<br>Conselheiros</div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row item align-items-center">
+                                    <div class="col-12 col-md-3 text-center fw-bold hour">5 de dezembro | 18h às 19h30</div>
+                                    <div class="col-12 col-md-8 fw-bold">
+                                        Desmistificando o Metaverso<br>
+                                        <div class="fw-normal">
+                                            Luiz Guilherme Guedes, fundador do Grupo EPIC<br>
+                                            Moderação: Gabriela Blanchet, sócia fundadora do Blanchet Advogados
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-md-1 d-flex align-items-center">
+                                        <div class="check"></div>
+                                        <div class="check on"></div>
+                                        <div class="check"></div>
+                                    </div>
+                                </div>
+
+                                <div class="row item align-items-center">
+                                    <div class="col-12 col-md-3 text-center fw-bold hour">6 de dezembro | 8h às 10h30</div>
+                                    <div class="col-12 col-md-8 fw-bold">
+                                        Desmistificando o Metaverso<br>
+                                        <div class="fw-normal">
+                                            Luiz Guilherme Guedes, fundador do Grupo EPIC<br>
+                                            Moderação: Gabriela Blanchet, sócia fundadora do Blanchet Advogados
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-md-1 d-flex align-items-center">
+                                        <div class="check"></div>
+                                        <div class="check on"></div>
+                                        <div class="check"></div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- / PÓS CONGRESSO -->
+
                 </div>
             </div>
         </div>
