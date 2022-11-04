@@ -32,7 +32,7 @@
             <div class="col-12 text-center">
                 <h4>Bronze</h4>
                 <img src="<?= get_template_directory_uri() . '/assets/img/bronze-aws.png' ?>" alt="AWS" />
-                <img src="<?= get_template_directory_uri() . '/assets/img/bronze-bradesco.png' ?>" alt="BRADESCO" />
+                <img src="<?= get_template_directory_uri() . '/assets/img/bronze-bradesco-novo.png' ?>" alt="BRADESCO" />
                 <img src="<?= get_template_directory_uri() . '/assets/img/bronze-cambridge.png' ?>" alt="CAMBIRDGE" />
                 <img src="<?= get_template_directory_uri() . '/assets/img/bronze-embraer.png' ?>" alt="EMBRAER" />
                 <img src="<?= get_template_directory_uri() . '/assets/img/bronze-mxm.png' ?>" alt="MXM" />
@@ -64,6 +64,7 @@
                 <img src="<?= get_template_directory_uri() . '/assets/img/apoiadores-akatu.png' ?>" alt="AKATU" />
                 <img src="<?= get_template_directory_uri() . '/assets/img/apoiadores-anbima.png' ?>" alt="ANBIMA" />
                 <img src="<?= get_template_directory_uri() . '/assets/img/apoiadores-ibracon.png' ?>" alt="IBRACON" />
+                <img src="<?= get_template_directory_uri() . '/assets/img/apoiadores-report.png' ?>" alt="GRUPO REPORT" />
                 <img src="<?= get_template_directory_uri() . '/assets/img/parceiro-midia-ri.png' ?>" alt="RI" />
                 <img src="<?= get_template_directory_uri() . '/assets/img/apoiadores-WCD.png' ?>" alt="WCD" />
             </div>
