@@ -207,6 +207,7 @@
                                         [encontro de conselheiros]<br>
                                         ESG - Casos práticos de responsabilização dos conselheiros<br>
                                         <div class="fw-normal">
+                                            Carol Hansell, senior partner at Hansell LLP<br>
                                             Richard Blanchet, sócio sênior do Blanchet Advogados<br>
                                             Lina Pimentel, sócia do Mattos Filho Advogados
                                         </div>
@@ -219,9 +220,21 @@
                                 </div>
 
                                 <div class="row item align-items-center">
-                                    <div class="col-12 col-md-1 text-center fw-bold hour">12h às 14h</div>
+                                    <div class="col-12 col-md-1 text-center fw-bold hour">12h às 13h</div>
+                                    <div class="col-12 col-md-10 fw-bold">
+                                        <em>Working lunch</em><br>
+                                    </div>
+                                    <div class="col-12 col-md-1 d-flex align-items-center">
+                                        <div class="check presencial"></div>
+                                        <div class="check"></div>
+                                        <div class="check"></div>
+                                    </div>
+                                </div>
+
+                                <div class="row item align-items-center">
+                                    <div class="col-12 col-md-1 text-center fw-bold hour">12h às 13h</div>
                                     <div class="col-12 col-md-11">
-                                        <p><em>Working lunch</em> e <em>Masterclass</em><br></p>
+                                        <p><em><b>Masterclass</b></em><br></p>
 
                                         <!-- CLASS -->
                                         <div class="class mb-2">
@@ -236,7 +249,7 @@
                                                 </div>
                                             </div>
                                             <div class="desc">
-                                                Cultura de Inovação na Amazon
+                                                <!-- Cultura de Inovação na Amazon -->
                                             </div>
                                         </div>
                                         <!-- / CLASS -->
@@ -254,7 +267,10 @@
                                                 </div>
                                             </div>
                                             <div class="desc">
-                                                A regulamentação acelerando a diversidade nas empresas: uma discussão sobre as novas regras da CVM e B3
+                                                A regulamentação acelerando a diversidade nas empresas: uma discussão sobre as novas regras da CVM e B3<br>
+                                                Fernando Motta, Superintendente de Regulação na B3<br>
+                                                Daniella Raigorodsky Monteiro, Sócia do Tauil & Chequer advogados Associado a Mayer Brown<br>
+                                                Moderação: Barbara Savoi Diniz, Head de relacionamento com empresas na B3
                                             </div>
                                         </div>
                                         <!-- / CLASS -->
@@ -293,7 +309,7 @@
                                             <div class="desc">
                                                 Sustentabilidade: o que conselheiros(as) precisam saber sobre supervisão e estratégia ESG<br>
                                                 Daniela Manole, Conselheira, certificada CCA. Instrutora certificada GRI e IFRS. CEO & Fundadora Bridge3 Governança & ESG<br>
-                                                Rachel Maia, fundadora e CEO da RMConsulting<br>
+                                                Rachel Maia, fundadora e CEO da RMConsulting, Conselheira Administrativa no Banco do Brasil, Vale e CVC Corp<br>
                                                 Carlos Loureiro, Diretor Regional na Diligent<br>
                                                 Moderação: Ricardo Moreno - Vice-presidente sênior de parcerias mundiais e CRO para a América Latina na Diligent
                                             </div>
@@ -380,7 +396,9 @@
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
                                         Preparando as empresas familiares para o amanhã<br>
-                                        <div class="fw-normal">José Roberto Goulart, diretor presidente da Alibem Alimentos S.A.<br>
+                                        <div class="fw-normal">
+                                            Antônio Carlos Pipponzi, presidente do Conselho de Administração da Raia Drogasil<br>
+                                            José Roberto Goulart, diretor presidente da Alibem Alimentos S.A.<br>
                                             Jacqueline da Silva Goulart, advogada da Alibem Alimentos S.A.<br>
                                             Moderação: Gabriela Baumgart, presidente do conselho de administração do IBGC
                                         </div>
@@ -654,6 +672,7 @@
                                         [sessão plenária]<br>
                                         Transição para práticas sustentáveis: mineração, óleo e gás<br>
                                         <div class="fw-normal">
+                                            Daniel Abdo, diretor de desenvolvimento de negócios da Sigma Lithium e sócio da A10 Invest<br>
                                             Luiz Carvalho, diretor de Research e analista sênior dos setores de óleo e gás e agronegócio na UBS BB Investment Bank<br>
                                             Moderação: Tatiana Assali, diretora de Programas em Finanças Sustentáveis da NINT
                                         </div>
@@ -717,7 +736,7 @@
                                         <div class="mb-3 fw-normal">
                                             Dan Yamamura, fundador da Fuse Capital<br>
                                             Ray Nasser, CEO da Arthur Mining<br>
-                                            Moderação: Mariana Assis, diretora de Customer Success, América Latina na Reality Labs from Meta
+                                            Moderação: Marcela Gonçalves, CEO da Multiledgers
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
 
@@ -794,9 +813,21 @@
                                 </div>
 
                                 <div class="row item align-items-center">
-                                    <div class="col-12 col-md-1 text-center fw-bold hour">12h às 14h</div>
+                                    <div class="col-12 col-md-1 text-center fw-bold hour">12h às 13h</div>
+                                    <div class="col-12 col-md-10 fw-bold">
+                                        <em>Working lunch</em><br>
+                                    </div>
+                                    <div class="col-12 col-md-1 d-flex align-items-center">
+                                        <div class="check presencial"></div>
+                                        <div class="check"></div>
+                                        <div class="check"></div>
+                                    </div>
+                                </div>
+
+                                <div class="row item align-items-center">
+                                    <div class="col-12 col-md-1 text-center fw-bold hour">13h às 14h</div>
                                     <div class="col-12 col-md-11">
-                                        <p><em>Working lunch</em> e <em>Masterclass</em><br></p>
+                                        <p><em>em>Masterclass</em><br></p>
 
                                         <!-- CLASS -->
                                         <div class="class mb-2">
@@ -811,7 +842,8 @@
                                                 </div>
                                             </div>
                                             <div class="desc">
-                                                Cultura de Inovação na Amazon
+                                                Cultura de Inovação na Amazon<br>
+                                                Cleber Morais - Diretor Geral da AWS
                                             </div>
                                         </div>
                                         <!-- / CLASS -->
@@ -829,7 +861,9 @@
                                                 </div>
                                             </div>
                                             <div class="desc">
-                                                A regulamentação acelerando a diversidade nas empresas: uma discussão sobre as novas regras da CVM e B3
+                                                Fontes de captação de recursos para as empresas e a atuação estratégica dos conselheiros nesse processo - As opções do Mercado de Capitais e de Private Equities<br>
+                                                Danilo Just Soares - Private Equity Partner na Treecorp<br>
+                                                Rafaela Vesterman - Head de relacionamento com empresas fechadas na B3
                                             </div>
                                         </div>
                                         <!-- / CLASS -->
@@ -847,8 +881,8 @@
                                                 </div>
                                             </div>
                                             <div class="desc">
-                                                Estratégia de Acionistas na Família Empresária<br>
-                                                Gustavo Gonzaga, Consultor Sênior e Sócio da Cambridge Family Enterprise Group
+                                                EO Futuro da Empresa Familiar: Turbulência e Transformação<br>
+                                                Celso Ienaga, Consultor sênior e sócio da Cambridge Family Enterprise Group Brasil
                                             </div>
                                         </div>
                                         <!-- / CLASS -->
@@ -868,7 +902,7 @@
                                             <div class="desc">
                                                 Sustentabilidade: o que conselheiros(as) precisam saber sobre supervisão e estratégia ESG<br>
                                                 Daniela Manole, Conselheira, certificada CCA. Instrutora certificada GRI e IFRS. CEO & Fundadora Bridge3 Governança & ESG<br>
-                                                Rachel Maia, fundadora e CEO da RMConsulting<br>
+                                                Michelle Squeff - Diretora Regional na Better Governance; Conselheira de Administração Coordenadora Geral IBGC/RS<br>
                                                 Carlos Loureiro, Diretor Regional na Diligent<br>
                                                 Moderação: Ricardo Moreno - Vice-presidente sênior de parcerias mundiais e CRO para a América Latina na Diligent
                                             </div>
@@ -926,7 +960,7 @@
 
                                         <div class="mb-3 fw-normal">
                                             Moderação: Claudia Pitta, sócia da Evolure Consultoria<br>
-                                            Moderação: Sérgio Mindlin<br>
+                                            Moderação: Sérgio Mindlin, conselheiro de administração do IBGC<br>
                                             Moderação: Marilza Benevides
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
@@ -940,7 +974,7 @@
                                         </div>
 
                                         <div class="mb-3 fw-normal">
-                                            Moderação: Patrícia Pellini<br>
+                                            Moderação: Patrícia Pellini, sócia da White Box Consultoria e Conselheira Certificada pelo IBGC<br>
                                             Moderação: Artur Neves
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
@@ -955,7 +989,7 @@
 
                                         <div class="mb-3 fw-normal">
                                             Moderação: Geraldo Affonso Ferreira, conselheiro independente<br>
-                                            Moderação: Paulo Vasconcellos
+                                            Moderação: Paulo Vasconcellos, consultor e conselheiro independente
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
 
@@ -968,7 +1002,7 @@
                                         </div>
 
                                         <div class="mb-3 fw-normal">
-                                            Moderação: Leticia Reichert<br>
+                                            Moderação: Leticia Reichert, conselheira de administração nas empresas Grupo FCC, Viemar Automotive e Núcleo Vitro. Membro da Comissão de Empresas de Controle Familiar do IBGC<br>
                                             Moderação: Richard Doern
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
@@ -982,8 +1016,8 @@
                                         </div>
 
                                         <div class="mb-3 fw-normal">
-                                            Moderação: Pedro Rudge<br>
-                                            Moderação: Fernando Motta<br>
+                                            Moderação: Pedro Rudge, sócio fundador da Leblon Equities, Chairman da AMEC e vice presidente da Anbima<br>
+                                            Moderação: Fernando de Andrade Mota, superintendente de Regulação, Orientação e Enforcement de Emissores na B3<br>
                                             Moderação: Tiago Isaac
                                         </div>
                                         <!-- /ITEM SIMULTÂNEO -->
@@ -997,7 +1031,7 @@
                                         </div>
 
                                         <div class="mb-3 fw-normal">
-                                            Moderação: João Camargo<br>
+                                            Moderação: João Laudo de Camargo, conselheiro de administração do IBGC<br>
                                             Moderação: Mercedes Stinco<br>
                                             Moderação: Flávia Lafraia
                                         </div>
