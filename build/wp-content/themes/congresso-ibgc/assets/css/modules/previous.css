@@ -1,5 +1,5 @@
 #congressos {
-
+    margin-top: 80px;
 }
 
 #congressos h2 {
@@ -23,7 +23,7 @@
 #congressos .timeline .left {
     position: absolute;
     top: -45px;
-    left: 40px; 
+    left: 40px;
 }
 
 #congressos a {
@@ -34,7 +34,7 @@
 #congressos .timeline .right {
     position: absolute;
     top: -45px;
-    right: 40px; 
+    right: 40px;
 }
 
 #congressos .timeline .left .numero,
