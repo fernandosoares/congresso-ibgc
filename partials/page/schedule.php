@@ -158,7 +158,7 @@
                                     <div class="col-12 col-md-1 text-center fw-bold hour">10h40 às 11h20</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
-                                        O conselho do futuro é hoje – O tsunami já começou<br>
+                                        O conselho do futuro é hoje - O tsunami já começou<br>
                                         <div class="fw-normal">David R. Beatty, presidente do Centro de Inovação em Governança Sharon &amp; David Johnston e professor de Estratégia na Escola de Administração Rotman (Universidade de Toronto)</div>
                                     </div>
                                     <div class="col-12 col-md-1 d-flex align-items-center">
@@ -232,7 +232,7 @@
                                 </div>
 
                                 <div class="row item align-items-center">
-                                    <div class="col-12 col-md-1 text-center fw-bold hour">12h às 13h</div>
+                                    <div class="col-12 col-md-1 text-center fw-bold hour">13h às 14h</div>
                                     <div class="col-12 col-md-11">
                                         <p><em><b>Masterclass</b></em><br></p>
 
@@ -635,7 +635,7 @@
                                     <div class="col-12 col-md-1 text-center fw-bold hour">8h40 às 9h</div>
                                     <div class="col-12 col-md-10 fw-bold">
                                         [sessão plenária]<br>
-                                        Inspiração para manter a floresta em pé – Plano de 50 anos<br>
+                                        Inspiração para manter a floresta em pé - Plano de 50 anos<br>
                                         <div class="fw-normal">
                                             Almir Narayamoga Surui, coordenador da Associação Metareilá do povo indígena Surui e cacique geral do povo Paiter Surui<br>
                                             Moderação: Sonia Consiglio, SDG Pioneer pelo Pacto Global da ONU
@@ -827,7 +827,7 @@
                                 <div class="row item align-items-center">
                                     <div class="col-12 col-md-1 text-center fw-bold hour">13h às 14h</div>
                                     <div class="col-12 col-md-11">
-                                        <p><em>em>Masterclass</em><br></p>
+                                        <p><em>Masterclass</em><br></p>
 
                                         <!-- CLASS -->
                                         <div class="class mb-2">
@@ -881,7 +881,7 @@
                                                 </div>
                                             </div>
                                             <div class="desc">
-                                                EO Futuro da Empresa Familiar: Turbulência e Transformação<br>
+                                                O Futuro da Empresa Familiar: Turbulência e Transformação<br>
                                                 Celso Ienaga, Consultor sênior e sócio da Cambridge Family Enterprise Group Brasil
                                             </div>
                                         </div>
