@@ -190,6 +190,7 @@
                                         [encontro de conselheiros]<br>
                                         ESG - Responsabilização dos conselheiros<br>
                                         <div class="fw-normal">
+                                            Carol Hansell, senior partner at Hansell LLP<br>
                                             Richard Blanchet, sócio sênior do Blanchet Advogados<br>
                                             Moderação: Lina Pimentel, sócia do Mattos Filho Advogados
                                         </div>
@@ -207,7 +208,6 @@
                                         [encontro de conselheiros]<br>
                                         ESG - Casos práticos de responsabilização dos conselheiros<br>
                                         <div class="fw-normal">
-                                            Carol Hansell, senior partner at Hansell LLP<br>
                                             Richard Blanchet, sócio sênior do Blanchet Advogados<br>
                                             Lina Pimentel, sócia do Mattos Filho Advogados
                                         </div>
@@ -249,7 +249,7 @@
                                                 </div>
                                             </div>
                                             <div class="desc">
-                                                <!-- Cultura de Inovação na Amazon -->
+                                                Tecnologia em prol da sustentabilidade
                                             </div>
                                         </div>
                                         <!-- / CLASS -->
