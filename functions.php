@@ -36,3 +36,16 @@ function wps_deregister_styles()
     wp_dequeue_style('global-styles');
 }
 add_action('wp_enqueue_scripts', 'wps_deregister_styles', 100);
+
+
+function isBeforeEventStart()
+{
+    $startTime = strtotime('2022-11-09 10:00:00');
+    $currentTime = strtotime(date('Y-m-d H:i:s'));
+
+    if ($currentTime > $startTime) {
+        return true;
+    }
+
+    return false;
+}
