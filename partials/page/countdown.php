@@ -38,8 +38,8 @@
                     </div>
                 </div> -->
 
-            <div class="col-12 col-md-7">
-                <div class="share d-flex justify-content-start">
+            <div class="col-12 col-md-7 text-center">
+                <div class="share d-block d-md-flex justify-content-start">
                     <p class="text-share">
                         Acompanhe o Congresso: <span class="fw-normal">Acesse:</span>
                     </p>
