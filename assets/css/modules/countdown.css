@@ -15,6 +15,11 @@
     font-weight: 600;
 }
 
+#contador p.text-share span {
+    font-size: 22px;
+    font-weight: 600;
+}
+
 #contador p {
     font-size: 44px;
     margin: 0;
