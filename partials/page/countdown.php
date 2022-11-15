@@ -41,7 +41,7 @@
             <div class="col-12 col-md-7 text-center">
                 <div class="share d-block d-md-flex justify-content-start">
                     <p class="text-share">
-                        Acompanhe o Congresso: <span class="fw-normal">Acesse:</span>
+                        Reveja o Congresso: <span class="fw-normal">Acesse:</span>
                     </p>
                     <a href="https://congressoibgc.yazo.app.br/" target="_blank">
                         <img src="<?= get_template_directory_uri() . '/assets/img/plataforma.png' ?>" alt="Plataforma" />
