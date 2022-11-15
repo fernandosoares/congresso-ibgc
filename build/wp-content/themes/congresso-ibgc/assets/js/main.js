@@ -23,7 +23,7 @@ jQuery(document).ready(function () {
 
     var currentDate = new Date().toJSON();
     var from = new Date('2022/11/08 00:00:00');
-    var to = new Date('2022/12/31 23:59:59');
+    var to = new Date('2022/12/01 23:59:59');
     var check = new Date(currentDate);
 
     if (check > from && check < to) {

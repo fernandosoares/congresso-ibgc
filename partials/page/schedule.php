@@ -1108,7 +1108,7 @@
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingPos">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePos" aria-expanded="true" aria-controls="collapsePos">
-                                <p>Sessões Online Pós-Congresso*</p>
+                                <p>Sessões Online e Pós-Congresso*</p>
                             </button>
                         </h2>
                         <div id="collapsePos" class="accordion-collapse collapse" aria-labelledby="headingPos" data-bs-parent="#accordionExample">
@@ -1125,7 +1125,7 @@
                                 </div>
 
                                 <div class="row item align-items-center">
-                                    <div class="col-12 col-md-3 text-center fw-bold hour">5 de dezembro | 18h às 19h30</div>
+                                    <div class="col-12 col-md-3 text-center fw-bold hour">31 de novembro | 18h às 19h30</div>
                                     <div class="col-12 col-md-8 fw-bold">
                                         Desmistificando o Metaverso<br>
                                         <div class="fw-normal">
@@ -1141,7 +1141,7 @@
                                 </div>
 
                                 <div class="row item align-items-center">
-                                    <div class="col-12 col-md-3 text-center fw-bold hour">6 de dezembro | 8h às 10h30</div>
+                                    <div class="col-12 col-md-3 text-center fw-bold hour">1 de dezembro | 8h às 10h30</div>
                                     <div class="col-12 col-md-8 fw-bold">
                                         Desmistificando o Metaverso<br>
                                         <div class="fw-normal">
