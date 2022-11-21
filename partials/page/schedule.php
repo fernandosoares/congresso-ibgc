@@ -1125,7 +1125,7 @@
                                 </div>
 
                                 <div class="row item align-items-center">
-                                    <div class="col-12 col-md-3 text-center fw-bold hour">31 de novembro | 18h às 19h30</div>
+                                    <div class="col-12 col-md-3 text-center fw-bold hour">30 de novembro | 8h às 10h</div>
                                     <div class="col-12 col-md-8 fw-bold">
                                         Desmistificando o Metaverso<br>
                                         <div class="fw-normal">
@@ -1141,7 +1141,7 @@
                                 </div>
 
                                 <div class="row item align-items-center">
-                                    <div class="col-12 col-md-3 text-center fw-bold hour">1 de dezembro | 8h às 10h30</div>
+                                    <div class="col-12 col-md-3 text-center fw-bold hour">1 de dezembro | 17h às 19h</div>
                                     <div class="col-12 col-md-8 fw-bold">
                                         Desmistificando o Metaverso<br>
                                         <div class="fw-normal">
